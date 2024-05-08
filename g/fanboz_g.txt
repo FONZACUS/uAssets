@@ -1,0 +1,219 @@
+! Title: Fanboz Age
+! Last modified: 2024 JUN 30
+###agp__noPeekScreen
+###city-hive-sites-age-check
+###shopify-section-age-gate
+###shopify-section-age-verification
+###verify-age-main
+##.agl_wrapper
+##.ekm-age-verification
+##.show.age-check-wrapper
+/age-gate-public.js
+/age-gate.js
+/age-verification-pop-up.js
+/age-verification.js
+/age-verifier.min.js
+/agegate.js
+/agegatepopup.js
+/ageverification.js
+/api/disclaimerjs/?
+/content-warning-v2/js/cwv3.min.js
+/disclaim-element.js
+/disclaimer/disclaimerjs.php
+/disclaimerweb.js
+/dispensary-age-verification-public.js
+/elegant-age-verification.min.js
+/elfsight-age-verification.js
+/ets_ageverification/views/*
+/hulk_age_verifier.js
+/jquery.agegate.js
+/module.popup-age-confirmation.min.js
+/plugins/age-verification-popup-for-woocommerce/*
+1day.sk##+js(set-cookie, verified4, 1)
+absoluporn.com###disclaimer
+alkoshop.sk##+js(set-cookie, y18, true)
+amateur.tv##+js(set-cookie, AdultContent, 1, , reload, 1)
+app.baxus.co##+js(set-cookie, IAV, true, , reload, 1)
+arthurcantina.com,mybevstore.com,kakaakowine.com,harmanswineandspirits.com,threesistersbrewery.store,taxfreespirits.nz,winesonline.co.nz,alphabottleshop.co.uk,thehopvault.com,fugglesbottleshop.co.uk,drinkstore.ie,liquormart.co.nz,thebeerlibrary.co.nz,goodgeorge.kiwi.nz,francosliquorstore.com,regionalwines.co.nz,beerandwine.co.nz,spearheadbeer.com,store.wellingtonbrewery.ca,sidelaunchbrewing.com,ridgerockbrewco.ca,folsomwinespirits.com,beercellar.co.nz,liquorstaronline.co.nz,theonenz.co.nz##+js(set-cookie, isAnAdult, true)
+arturofuente.com##+js(set-cookie, resp-agev-age-verification-passed, 1)
+bdsmsexcontact.nl,extreem.nl,gayplaats.nl,hete-profielen.nl,klapjesflirt.nl,maturewereld.nl,nieuweliefdes.nl,onenight-stand.be,sexdateafspraakje24.nl,sexklik.nl,xdirty.nl,xshemale.nl,zoekcougars.nl###importantnotification
+beerjerk.co.nz##+js(set-cookie, beyours:age-verifier, true)
+beershop.cz##+js(set-cookie, acheck, 1, , reload, 1)
+behemothbrewing.co.nz,epicbeer.com,halfmoonwinestore.com.au,missionliquor.com,store.henryofpelham.com###prompt-background
+bentspokebrewing.com.au##.splash
+beyblade.com##+js(set-cookie, underage, false, , reload, 1)
+bigbarrel.co.nz##+js(set-cookie, isageverified, true)
+bigtitslust.com,camwhores.info,camwhores.tv,camwhores.video##+js(set-cookie, kt_agecheck, 1)
+binoidcbd.com##+js(set-cookie, bavp_age_verified, 1)
+bitburger-braugruppe.de##+js(set-cookie, bbgage18, true)
+bittersandbottles.com,thebarreltap.com##+js(set-cookie, m_a_v, 1)
+blackbullliquor.co.nz##+js(set-cookie, visited, yes)
+blackbullliquorgreenwood.co.nz,blackbullporirua.co.nz,thirstyliquor.co.nz,thirstyliquorfranichst.co.nz,thirstyliquorislington.co.nz,thirstyliquorkaitaia.co.nz###age-verification-popup
+blackmarket.co.nz##+js(set-cookie, .18OK, true)
+blunthaven.com##.gminfoTechmodal
+blunthaven.com##body,html:style(overflow: auto !important; position: initial !important;)
+bottle-store.sk,dobrepitie.sk,walperdrinks.sk,bumbaj.sk##+js(set-cookie, site-agreement, 1)
+bottlerepublic.com##+js(set-local-storage-item, ageIsVerified, true)
+brewart.com##+js(set-cookie, ag, y)
+brobasket.com##+js(set-cookie, accept_age, accepted)
+buktube.com,xhaccess.com,xhamster.com,xhamster.desi,xhamster2.com,xhamster3.com##+js(set-cookie, parental-control, yes, , reload, 1)
+caliva.com##.age_age__i5NS_
+carwyncellars.com.au##+js(set-local-storage-item, of-age, true)
+chipsliquor.com##+js(set-cookie, age_consent, true)
+crowncellarandco.com.au##.site-age-gate
+dads-banging-teens.com,home-xxx-videos.com,mature-chicks.com,pornbeauties.net,xxxgirls.cc###dclm_modal_content
+dads-banging-teens.com,home-xxx-videos.com,mature-chicks.com,pornbeauties.net,xxxgirls.cc###dclm_modal_screen
+dreamgf.ai###termsMessage
+drinkcentrum.sk##+js(set-cookie, accept_age, 1)
+drinksking.sk##+js(set-cookie, coookieage, ok)
+drinkstation.co.uk##+js(set-cookie, goodav_block_popup-2711, 0)
+drizly.com##+js(set-local-storage-item, ageCheckConfirmed, true)
+dymoksmokeshop.com##+js(set-cookie, age, true)
+eightvape.com##+js(set-cookie, age-verified, true)
+elementvape.com##+js(set-cookie, ageVerified, 1)
+elstonandson.co.uk##+js(set-cookie, over18, yes)
+eltomdistillery.com##+js(set-cookie, _ageVerified, yes)
+erhotica.it###banneradulti
+fakings.com##+js(set-cookie, mayor_edad, 1, , reload, 1)
+fibwhisky.scot###POPUPS_ROOT
+fibwhisky.scot###bgLayers_vfo8z
+fifthgate.shop##+js(set-cookie, AgeVerificationPopup-sections--14858278141988__age-verification-popup, 1)
+finewinedelivery.co.nz##+js(set-cookie, firstvisit, 1)
+finewinedelivery.co.nz##.s-curtain
+finewinedelivery.co.nz##.s-popup
+firebrandbrewing.co.uk,shop.gooddrop.co.nz##+js(set-local-storage-item, age_confirmed, true)
+fogarty.wine##.age-confirm-overlay
+fogarty.wine##body,html:style(overflow: auto !important; position: initial !important;)
+garageproject.co.nz##+js(set-session-storage-item, age_confirmed, true)
+gaza.sk##+js(set-cookie, visitedPopup, 1)
+getfizzy.co##+js(set-cookie, age_verified, true)
+glass4u.sk##+js(set-cookie, close_popup, 1)
+glengarrywines.co.nz###ageGateContent
+glengarrywines.co.nz###mainScreen
+global-wines.sk##.age-check-popup
+global-wines.sk##.age-check-popup__overlay
+gocarbon.co,juicefly.com##+js(set-cookie, age-checked, 1)
+goodtimesoakland.com,theloosedozen.com.au###shopify-section-popup-age-verification
+goodtimesoakland.com,theloosedozen.com.au##body,html:style(overflow: auto !important; position: initial !important;)
+goodvapes.com##.agp__wrapper
+gourmetencasa-tcm.com###agecontrol_box
+gulfliquorsmiami.com##+js(set-local-storage-item, _CityHiveSites_AgeCheck_Checked, yes)
+holidayhouseliquors.com###agePopUp
+hypnoticherb.com##mkp-age-verification-popup
+iloveincredibles.com##+js(set-cookie, age-modal-hide, true)
+imagetwistcams.com,strip.chat,stripchat.com,xhamsterlive.com,celebjihad.live,hplives.com##+js(set-cookie, isVisitorsAgreementAccepted, 1, , reload, 1)
+innokin.com##+js(set-cookie, ageCheck, 1)
+iqos.com##+js(set-cookie, iqos-age-verified, yes)
+javhd.com##+js(set-cookie, adult-warning-popup, disabled)
+jpwiserstour.ca##+js(set-cookie, corby-agegate-jpw-ca, true)
+kenastonwine.com##+js(set-local-storage-item, agecheck, yes)
+legacylr.com##+js(set-cookie, cookiemailinglist, 1)
+leithbottleshop.co.uk###agp__root
+lesbianstate.com##+js(set-cookie, Age, 1)
+lesbianstate.com##+js(set-cookie, Cookie, 1)
+lesommelier.com###ageWrapper
+liquorland.co.nz##+js(set-cookie, lq-age-gate, true, , reload, 1)
+liquorlegends.co.nz###modal_home_pop
+liquorlegends.co.nz##.modal-backdrop
+liquorlegends.co.nz##body,html:style(height: auto !important; overflow: auto !important)
+liquoronbroadway.com##+js(set-cookie, bouncer, true)
+lnw.com##+js(set-session-storage-item, AgeRestrictionAccepted, true)
+macandrews.store###age-verification
+madcatbrewery.co.uk##+js(set-cookie, age-verification, true)
+manhuascan.io##+js(set-session-storage-item, adt-accepted-5621, 1)
+marketviewliquor.com##+js(set-cookie, mlv_age_verify, 1)
+marketwinestore.com.au##+js(set-session-storage-item, notification, false)
+midwestgunworks.com##+js(set-cookie, privBanner, 1, , reload, 1)
+monkey47.com##.agegate
+najlacnejsialkohol.sk##+js(set-cookie, vstup-popUp, 1)
+narrabeenporters.com.au##+js(set-cookie, goodav_block_popup-418, 0)
+newportwinespirits.com##+js(set-cookie, GmVerifiedClick, true)
+nigged.com,pornermates.com,loverfans.com,pepeporn.com##+js(set-cookie, mayor_edad, 1)
+onlinewarehouse.com##.avwp-av
+onlinewarehouse.com##.avwp-av-overlay
+onlinewarehouse.com,thinkcanna.co##.avwp-av
+onlinewarehouse.com,thinkcanna.co##.avwp-av-overlay
+pima.sk##+js(set-cookie, adultModal, agree)
+pivoteka.sk##.js-restriction
+placercams.com##+js(set-cookie, AdultContent, 1, , reload, 1)
+placercams.com##+js(set-cookie, OldAdultContent, 1)
+pointwineandspirits.com##.agp__wrapper
+pointwineandspirits.com,redbluffcellars.com.au,thebeerdrop.com.au##.agp__wrapper
+pornhub.com##+js(set-cookie, accessAgeDisclaimerPH, 1, , reload, 1)
+pornogratisdiario.com,videospornogratisx.net###html_edad
+pornx.ai##.flex.w-screen.h-\[100dvh\].fixed.inset-0.z-50.overflow-x-auto.justify-center.\[--scale-enter\:100\%\].\[--scale-exit\:100\%\].\[--slide-enter\:0px\].\[--slide-exit\:80px\].sm\:\[--scale-enter\:100\%\].sm\:\[--scale-exit\:103\%\].sm\:\[--slide-enter\:0px\].sm\:\[--slide-exit\:0px\].items-center.sm\:items-center
+pornx.ai##.z-50.backdrop-saturate-150.w-screen.h-screen.fixed.inset-0.bg-\[\#000000ec\].backdrop-blur-\[15px\]
+premiumliquor.co.nz##+js(set-cookie, age-verified, true)
+quecan.com##+js(set-cookie, AgeVerificationPopup-sections--16804669849816__age-verification-popup, 1)
+realenglishdrinks.co.uk##+js(set-cookie, isAnAdult, true)
+reddit.com##+js(rc, thumbnail-blur, , stay)
+reddit.com##+js(set-cookie, over18, true)
+reddxxx.com##+js(set-local-storage-item, ageConsent, true)
+redtube.com,redtube.com.br##+js(set-cookie, showAgeDisclaimer, 1)
+revl.co.uk##+js(set-cookie, ageVerified, true)
+rhymeandreason.beer##+js(set-cookie, goodav_block_popup-1647, 0)
+royalbatch.com##+js(set-local-storage-item, verify, true)
+ruapehubrewing.co.nz##+js(set-cookie, is_legal, yes)
+rvfhemp.com,vape.com,volcanoecigs.com##+js(set-cookie, isAnAdult, true)
+saltairebrewery.com##+js(set-cookie, sb-over-18, true)
+sendsips.com,grandwinespirits.com,lukesliquors.com,peavinewineandspirit.com,napavalleybeverageco.com,107liquor.com,universalliquors.net,primosfinewine.com,mcswineandliquors.com,liquorjunction.com,interquestliquor.com,drinktuscany.com,liquorcave.com,bottlenbrew.com,creeksidebeer.com,prestobeer.com,swigthis.com,sidedoorliquors.com,destinationwineandliquor.com,liquorcity.com,myredcarpetliquors.com##+js(set-cookie, age_verification, 1)
+sexervaringendelen.nl##.agl_wrapper
+shoptheking.us##.popup-wrap
+sipsy.com##.age-checker__restriction-wrapper
+sipsy.com##body,html:style(height: auto !important; overflow: auto !important)
+societyliquor.co.nz##+js(set-cookie, age_verification, yes)
+spirits24.co.uk##.age-verification
+streamate.com##.PayPalAgeGate-root-0-2-2
+superliquor.co.nz##+js(set-cookie, superliquor, 1)
+svetwhisky.sk##+js(set-cookie, popupdisplay1, 1)
+takarasake.com##+js(set-cookie, verified, yes)
+tantralux.com###modal-plus-18
+teamskeet.com##+js(set-cookie, disclaimer_status, agree)
+thebaggiestore.com##+js(set-cookie, goodav_block_popup-3146, 0)
+thegrowthop.com##+js(set-local-storage-item, page-age-gate-verified, true)
+theliquorbros.com##.t4s-age_pp_wrapper
+theliquorbros.com##body,html:style(height: auto !important; overflow: auto !important)
+theprisonerwinecompany.com###bloom-age-gate-background
+theprisonerwinecompany.com###bloom-age-gate-foreground
+theprisonerwinecompany.com##body,html:style(height: auto !important; overflow: auto !important)
+thevaporshoppeusa.com##+js(set-cookie, bouncer, true)
+titanbev.com##.modal_pop
+tjinstoko.eu###language-check-popup
+tremblingmadness.co.uk##+js(set-cookie, leadform_21331328-003f-43ca-a4d6-743402481f7c_closed, 1)
+trulyhardseltzer.com##.ageGate
+tsmodelstube.com##+js(set-cookie, warning, 1, , reload, 1)
+tube8.com,tube8.es,tube8.fr##+js(set-cookie, t8disclaimer, 1)
+uptownspirits.com##.age-verification-popup
+uptownspirits.com##body,html:style(height: auto !important; overflow: auto !important)
+vapeoutletonline.com##.js-verify-popup
+vaperoyalty.com###vape-age-gate
+vapetyson.com##.section-pd-age-gate
+vaporesso.com##.age-check
+vaporplanet.es##+js(set-cookie, confirmed_age, true)
+vaskakas.com##+js(set-cookie, UN_explicit, ok)
+verilife.com##+js(set-cookie, popupShown, true)
+vinearts.ca##.age-gate
+vineonline.co.nz##.vineonline-gate-popup-0-x-modalOverlay
+vineonline.co.nz##.vineonline-gate-popup-0-x-portalContainer
+vinopolitan.sk,heureka.sk##+js(set-cookie, h_adult, 1, , reload, 1)
+vinotrade.sk##+js(set-cookie, resp-agev-age-verification-passed, 1)
+vip-cam.xyz,chaturbate.com##+js(set-cookie, agreeterms, 1, , reload, 1)
+voopoo.com###warning-message
+vssm.eu###jcdisclaimer
+vssm.eu###popup
+wachusettliquors.com,panheadcustomales.com,laughingbonesbrewing.com,radbeer.com,store.claptoncraft.co.uk,auziliquor.com.au,wandanabrewingco.com.au,hawkers.beer,grapengrain.com.au,hopheads.com.au,shop.harveys.org.uk,beershophq.uk,originalstormtrooperbeer.com,wanderlustdrinkscompany.com,shop.frankbeer.ca,pbexpressliquor.com,provenancecommissary.ca,fortgarry.com,bristolbeerfactory.co.uk,tumbleweedspirits.com,emersons.co.nz##+js(set-cookie, age-checked, 1)
+webtoon.xyz###adult_modal
+webtoon.xyz##.modal-backdrop
+whiskeyonline.co.nz##+js(set-cookie, cx_age, true)
+whiskyandmore.co.nz##+js(set-cookie, allowage1, 1)
+winesale.co.nz##+js(set-cookie, _ageVerified, yes)
+xgirls.agency##.age-verification
+xxxfetish24.com##+js(set-local-storage-item, mb_age_warning_verified, 1)
+youjizz.com##+js(set-local-storage-item, yjAgeVerified, true)
+yuengling.com##+js(set-cookie, age-gate, 1)
+||agechecker.net^$third-party
+||av-northern-apps.com/js/agecheckerplus_
+||editmysite.com/app/marketing/js/dist/lead$script,domain=blueandwhitebottleshop.com|weebly.com
+||lifteragecheck.com^$third-party
+||static.elfsight.com/apps/age-verification/
+||zooomyapps.com/age/ZooomyAgeVerify.js

@@ -1,0 +1,34 @@
+!EL=easylist EA=adult BL=block GE=general SP=specific PO=popup
+!AL=allowlists HI=hide AS=adservers 3P=thirdparty DI=dimensions
+!-General advert blocking filters
+EL_GE_BL
+EL_GE_BL_DI
+EL_GE_BL_PO
+!-General element hiding rules
+EL_GE_HI
+EL_AL_GE_HI
+!-Third-party advertisers
+EL_AS
+EL_AS_PO
+EA_AS
+EA_AS_PO
+!-Third-party adverts
+EL_3P
+EL_3P_PO
+EA_3P
+EA_3P_PO
+!-Specific advert blocking filters
+EL_SP_BL
+EL_SP_BL_PO
+EA_SP_BL
+EA_SP_BL_PO
+!-Specific element hiding rules
+EL_SP_HI
+EL_SP_HI_abp
+EA_SP_HI
+!-Allowlists to fix broken sites
+EL_AL
+EL_AL_DI
+EL_AL_PO
+EA_AL
+EA_AL_PO

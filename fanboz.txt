@@ -1,0 +1,2801 @@
+! Title: Fanboz
+! Last modified: 2024 JUN 30
+###WACLauncher__Button
+###popin-salescontact
+##.b24-widget-button-wrapper
+##.chat_hammerbot-iframe-wrapper__outer
+##.drift-facade
+##.intercom-launcher
+##.intercom-lightweight-app
+##.joinchat--chatbox
+##.m-chat-toggler
+##.sticky-button--whatsapp
+##.wix-blog-hide-in-print.SITE_FOOTER_WRAPPER
+##yardi-widget-craigslist
+-ShareButton2.
+-Social-Sidebar/
+-facebook-likeButton-
+-facebook-share.
+-facebook-widget.
+-follow-icon-
+-follow-icons.
+-follow-us-icons.
+-followicons.
+-footer-newsletter.
+-newsletter-popup.
+-newsletterwidget.
+-push-notification.$domain=~github.com
+-push-notification/$domain=~github.com
+-share-bar/$~stylesheet
+-share-buttons2.
+-share-buttons3/$~stylesheet
+-share-sprite-
+-share-sprite.
+-share-tools-
+-shareWidget.
+-sharebar-
+-sharebar.
+-sharebuttons_
+-sharetools-
+-slide-social-
+-social-panel.
+-social-panel/
+-social-sidebar.
+-social-slider/
+-sprite-social-
+-square-newsletter.
+.fbshare.js
+.sharebar.js
+.sharing.js
+/1-popupally-pro-code.js
+/BannerNewsletter.jpg
+/BannerNewsletter.png
+/Components/newsletter/*
+/ENewsletter_
+/ExitIntentPopUp.js
+/FeedifySW.js
+/Handlers/Sharrre.ashx?
+/Javascripts/Social.js
+/Netsteps_NewsletterPopup/js/newsletter-popup.min.js
+/Newsletter-Banner-
+/NewsletterSubscription.js
+/OneSignalSDKUpdaterWorker.js
+/OneSignalSDKWorker.js
+/Opinion8.min.js
+/PushexSDK.js
+/Resources/twitter-$~xmlhttprequest
+/Sharefb.jpg
+/Sharefb.png
+/Sharetw.png
+/SharingBar/*
+/Social-Sidebar.js
+/SocialBookmark/*
+/SocialMediaLink/*
+/SocialSharePlugin.js
+/SocialSharePlugin.png
+/SocialSprite.
+/a2a_share_
+/accesspress-social-counter/*
+/accusmartwebpush-fire-push-public.js
+/add-mymsn2.gif
+/addthis_widget.js
+/addtoany.min.js
+/advanced-social-widget.js
+/al-fb-notification/assets/scripts/al-main-script.js
+/ame-newsletter-public.js
+/amp-apester-
+/amp-user-notification-
+/amp-web-push-0.1.js
+/antirightclick.js
+/app-banner/*$xmlhttprequest
+/arscode-ninja-popups/*$~stylesheet
+/article-social/*
+/ashare.js
+/assets/www/notification.
+/avada-to-top.js
+/ayoshare.js
+/back-top-btn.png
+/back_to_top.js
+/back_to_top_$~stylesheet
+/badge_twitter.jpg
+/badge_twitter.png
+/banner-social.jpg
+/banner-social.png
+/banner/newsletter.jpg
+/banner/newsletter.png
+/banner/newsletter.svg
+/banner/social/*
+/banner/videos/player.htm?$subdocument
+/bannerino-newsletter.png
+/bloc_newsletter.jpg
+/block-console.js
+/block-right-click.js
+/blocknewsletter.js
+/bottom-facebook.jpg
+/bottom-facebook.png
+/bottom-twitter.jpg
+/bottom-twitter.png
+/browserDetection/jquery.reject.js
+/bt_pagetop.gif
+/bt_pagetop.png
+/btn_back2top.png
+/btn_gotop.gif
+/btn_gotop.png
+/btn_pagetop.gif
+/btn_pagetop.png
+/build/push.js
+/button_share.png
+/button_to_top.png
+/cevhershare.js
+/cf-christmasification-public.js
+/cf-christmasification-public.min.js
+/checkPush.js
+/christmas-snow.js
+/common/sns/*
+/common/sns_
+/commonSprites/social/*
+/commons/social/*
+/console-ban.min.js
+/console-blocker/app-detect.js
+/content/js/push.js
+/cool-share/plugin.js
+/copy_text.js
+/creame-whatsapp-me/public/js/joinchat.min.js
+/csBackToTop.js
+/cx-scrolldepth.js
+/dealsaver/widget/*
+/detect.dev.js
+/devtools-detect.js
+/devtools-detect/index.js
+/devtools-detector.js
+/devtools-detector.min.js
+/diggdigg-floating-bar.js
+/disable-devtool.js
+/disable-devtool.min.js
+/disable-right-click-images/script.js
+/disable-right-click-js.js
+/disabled-source-disabled-right-click-and-content-protection/*
+/disablerightclick.js
+/dreamgrow-scroll-triggered-box/js/script.js
+/dynamic.to.top.min.js
+/ej-socialslider/static/slideout.js
+/email_newsletter_
+/embeds/newsletter/*
+/facebook-page-promoter-lightbox/includes/launch/launch.min.js
+/facebook-pagelike-widget/fb.js
+/facebook-popup-
+/facebook-side.jpg
+/facebook-side.png
+/facebook-vertical.png
+/facebook-vertical.svg
+/facebookBtmIcon.gif
+/facebookHeader.png
+/facebook_badge.gif
+/facebook_badge.jpg
+/facebook_badge.png
+/facebook_footer.png
+/facebook_footer.svg
+/facebook_like_button.png
+/facebook_sidebar.jpg
+/facebook_sidebar.png
+/facebook_sidebar.svg
+/facebook_social.png
+/facebook_top_icon.png
+/facebookbadge.gif
+/facebookbadge.jpg
+/facebookbadge.png
+/facebooksharebutton.png
+/facebooksocialplugins.js
+/facebooksquare.jpg
+/facebooksquare.png
+/facebooktrafficdriver.min.js
+/facebookwidget.js
+/fartscroll.js
+/fb-like-pop.js
+/fb-pixel.js
+/fb-traffic-pop.css
+/fb-traffic-pop.min.js
+/fb-widget.jpg
+/fb-widget.js
+/fb-widget.png
+/fb_modeles.css
+/fb_side.jpg
+/fb_side.png
+/fbfooter.png
+/fbfooter.svg
+/fbpop.js
+/fbshare.jpg
+/fbshare.js
+/fbshare.png
+/fbshare2.jpg
+/fbshare2.png
+/fcmPush.js
+/feedburner-subscription-widget/style.css
+/firebase-messaging.js$script,domain=tribunnews.com
+/floating-social-bar/js/fsb.js
+/floating-wpp.min.js
+/flw-twitter.png
+/flying_push.js
+/follow-linkedin.jpg
+/follow-twitter-
+/follow-twitter.
+/follow-us.$~stylesheet
+/follow-widget.js
+/follow_instagram.png
+/followusontwitter.jpg
+/followusontwitter.png
+/footer-newsletter.jpg
+/footer-newsletter.js
+/gadgets/Social/*
+/gallery/social/*$image
+/gen-share-master/assets/js/frontend/application.min.js
+/gfx/socials/*
+/gigya-socialize-for-wordpress/*$~script,~stylesheet
+/gm-button-social.min.js
+/graphics/share/*
+/header_socials.png
+/highlight-and-share.js
+/hs.go-to.js
+/hs.go-to.min.js
+/hustle/assets/hustle-ui/js/hustle-ui.min.js
+/ic_pagetop.png
+/ic_pagetop.svg
+/icon_gototop.png
+/icon_scrollup.svg
+/icon_share_
+/icon_sns_
+/ilabspush.min.js
+/inpl.webpush.js
+/iscriviti-newsletter.css
+/itpsocialbuttons/images/*
+/itpsocialbuttons/style.css
+/jcwp-copy-paste-blocker/jcorgcpbjs.js
+/jiathis_share.css
+/jinda-facebook-lightbox/public/*
+/journey/compiler/*
+/jquery-notification.js
+/jquery-pin-it-button-for-images/js/jpibfi.client.js
+/jquery.androidbanner.js
+/jquery.bpopup.$script,domain=telechargerunevideo.com
+/jquery.particleground.js
+/jquery.shareaholic-publishers-sb.min.js
+/jquery.sharecount.min.js
+/jquery.simplemodal.$script,domain=breakingdefense.com
+/jquery.snow.js
+/jquery.stp.min.js
+/js-mobile-*/header_$script
+/js/jquery.smartbanner.js|
+/js/jquery.smartbanner.min.js|
+/jsb/pushnotifications?
+/juiz-social-post-sharer-2.min.css
+/juiz-social-post-sharer-6.min.css
+/juiz-social-post-sharer.min.js
+/klaviyo_subscribe.js
+/layout/newsletter.png
+/leadin-subscribe.min.js
+/letitsnow.min.js
+/lg-share.js
+/like_button.js
+/like_button.png
+/likebox.php
+/likefacebook.jpg
+/likefacebook.png
+/likegate.js
+/likesScript.js
+/list_notificaciones.php
+/magic-snowflakes/dist/snowflakes.min.js
+/mailup-email-and-newsletter-subscription-form/*
+/maximizly-push.js
+/media/newsletters/*
+/mega-subscribe-popup/js/script.js
+/mobile-welcome-overlay/*$script
+/mod_socialmedialinks/icons/*
+/mod_socialmedialinks/style.css
+/mod_socialslider/tmpl/*
+/modals/newsletter&
+/modals/newsletter?
+/modules/notifications.$domain=~forum.vivaldi.net
+/mp-web-notification.js
+/myshare/assets/js/*
+/needsharebutton.js
+/needsharebutton.min.css
+/newsletter-300x250.jpg
+/newsletter-300x250.png
+/newsletter-app.js
+/newsletter-banner.jpg
+/newsletter-banner.png
+/newsletter-campaign-manager/latest.js
+/newsletter-inline.js
+/newsletter-pack.min.css
+/newsletter-pack.rtl.min.css
+/newsletter-pattern.png
+/newsletter-popin.js
+/newsletter-portlet/js/main.js
+/newsletter-promo-
+/newsletter-signup.js
+/newsletter-signup.min.js
+/newsletter-subscribe-
+/newsletter-subscription-$~stylesheet
+/newsletter/popup-
+/newsletter/popup/*
+/newsletter2011_
+/newsletter_banner.jpg
+/newsletter_banner.png
+/newsletter_wdgts.js
+/newsletter_widget.js
+/newsletterpopup.css
+/newsletterpopup.js
+/newsletterpopup.min.js
+/newsletterpro/views/js/app_front.min.js
+/newsletters/modal/*
+/newsletters/widget/*
+/newsletterwidget/mngcep/mg2nw.min.js
+/no-right-click-images.js
+/no-right-click.js
+/norightclick.js
+/notification-prod-sw.js
+/notification-sw.js
+/notification/notify.js
+/notifyme.js
+/notifyme.min.js
+/nrelate_js.min.js
+/o3-social-share-styles.css
+/obtp.js
+/one-signal.js
+/one-signal.min.js
+/onesignal.js
+/onesignal.min.
+/onesignal/manifest.
+/onesignalfix.js
+/onlineopinionV5/oo_engine.min.js
+/onlineopinionV5/oo_style.js
+/opinionlab/oo_style.css
+/oss_share.js
+/outbrain.js
+/outbrainAd.
+/overlayShare.js
+/pageAutoRefresh.
+/pandalocker.$script
+/particles-sel.js
+/perfecty-push-sdk.min.js
+/pin_it_button.png
+/pinit-button.png
+/pinit.html?
+/pinterest-footer-icon.png
+/pinterest-footer-icon.svg
+/pinterest-footer-svg.ashx
+/pinterest-footer.ashx
+/pinterest-for-woocommerce-save-button.min.js
+/pinterest-for-woocommerce-tracking.min.js
+/pinterest-over.jpg
+/pinterest-over.png
+/pinterest_tag.js
+/pintrest-button.png
+/plugin/banner/videos/*$subdocument
+/plugins/StickySocialBar/js/sharefront.js
+/plugins/add-to-any-subscribe/subscribe_
+/plugins/add-to-any/addtoany.min.js
+/plugins/advanced-browser-check/js/script.js
+/plugins/anmiated-twitter-bird/js/tripleflap.js
+/plugins/bookmarkify/*
+/plugins/delicious-bookmark-button/delit.js
+/plugins/dpSocialShare/js/jquery.dpSocialShare.js
+/plugins/easy-facebook-likebox/*
+/plugins/easy-twitter-feeds/public/js/widget.js
+/plugins/facebook-button-plugin/js/script.js
+/plugins/facebook-fanbox-popup/assets/js/spu.js
+/plugins/facebook-like-content-locker/js/pop.js
+/plugins/facebook-page-promoter-$~stylesheet
+/plugins/facebookpopuppro/js/facebookpopup.js
+/plugins/getsocial/lib/getsocial.js
+/plugins/knxdt-bookmarks-wordpress-plugin/css/style.css
+/plugins/light-social/*$~stylesheet
+/plugins/like-box-pro/includes/javascript/front_end_js.js
+/plugins/like-fb/js/popup.js
+/plugins/mashsharer/assets/js/mashsb.min.js
+/plugins/newsletter/style.css
+/plugins/newsletter/subscription/validate.js
+/plugins/optin-monster/assets/js/api.js
+/plugins/osd-social-media-sharing/includes/style.css
+/plugins/pinterest-pin-it-button-on-image-hover-and-post/js/pinit.js
+/plugins/popup-maker/*$script,domain=~tracktion.com|~upride.cc
+/plugins/rightclick/*
+/plugins/rtsocial/js/rtss-main.js
+/plugins/scroll-triggered-boxes/assets/js/script.min.js
+/plugins/share-and-follow/*$image
+/plugins/share-social/icons/*$image
+/plugins/simple-social-sharing-widgets-icons/*$~stylesheet
+/plugins/slick-social-share-buttons/*
+/plugins/slide-in/js/wdsi.js
+/plugins/sme-facebook-likebox-sidebar/*
+/plugins/sociable-re/images/*
+/plugins/sociable/*$~stylesheet
+/plugins/social-media-widget/*$image
+/plugins/social-profiles-widget/*$image
+/plugins/socialbox/assets/*
+/plugins/socialfans-counter/assets/js/socialfans-script.js
+/plugins/socialgrid/static/img/*
+/plugins/subscribe-connect-follow-widget/images/*
+/plugins/tfnotifier-wp/swloader.php
+/plugins/tweet-this/icons/*
+/plugins/tweetmeme/button.js
+/plugins/ultimate-follow-me/*
+/plugins/ultimate-social-deux/public/assets/js/min/us.script-min.js
+/plugins/viperbar/client/js/front.js
+/plugins/wordpress-popup/*$~stylesheet
+/plugins/wordpress-social-ring/*
+/plugins/wp-emailfeedburnerpop/*
+/plugins/wp-greet-box/js/functions.js
+/plugins/wp-greet-box/js/js-mode.js
+/plugins/wp-plus-one/wp-plus-one.js
+/plugins/wp-scroll-to-top/scr_js.js
+/plugins/wp-social-toolbar-pro/js/corescripts.js
+/plugins/wp-tweet-button/tweetn.png
+/popinNewsletter.js
+/popinnewsletter.css
+/popup-builder/public/sound/*
+/prisna-social-counter.css
+/ps_emailsubscription.js
+/pubExchange.min.js
+/puresnow.js
+/push-notification.js
+/push-notification.min.js
+/push-notification/*$domain=~upwork.com
+/push-notifications.$~stylesheet
+/push-notifications/*
+/push-notifications?
+/push-sw.js
+/push-worker-$script
+/push-wrap.js
+/push/sbscr.js
+/push/sbscrp.js
+/push/subscribe.js
+/pushNotification.js
+/pushNotificationSdkJS.js
+/pushNotifications.js
+/push_app.js
+/push_notification.js
+/push_notification.min.js
+/push_notification/*
+/push_notifications.js
+/push_subscription.js
+/pushes/firebase.js
+/pushes/notification.js
+/pushly-sdk.min.js
+/pushnotifications/*
+/pushpro-lib.js
+/pushsubscribe.js
+/pushup-notification/push-app.js
+/pushup-notification/push-messaging.js
+/pushv2.js
+/pushwoosh-service-worker.js
+/pushwoosh-web-notifications.js
+/pushwoosh-web-pushes-http-sdk.js
+/pushy-ver.js
+/q2w3-fixed-widget.min.js
+/qa-social-share.css
+/rating-widget/resources/css/site-rating.css
+/rdstation-popup.min.js
+/recommend.php$subdocument,~third-party
+/rrshare.js
+/s9-social-sharing-front.css
+/sapo_newsletters.js
+/sbtt.js
+/script/snow.js
+/scripts/onesignal.js
+/scroll-to-top.png
+/scroll-to-top/*$~stylesheet
+/scroll-top-and-bottom/*
+/scroll-top.jpg
+/scroll-top.js
+/scroll-top.png
+/scrollBtnTop.png
+/scrollShareMenu.html
+/scrollToTop.min.js
+/scrollToTop.png
+/scroll_top.png
+/scroll_top.svg
+/scrolltopcontrol.js
+/scrolltotop.js
+/scrollup_button.js
+/share-bar-1.min.js
+/share-bar/build/index.js
+/share-bar/share-bar.js
+/share-button?
+/share-controller.js
+/share-controller.min.js
+/share-leadoff-public.js
+/share-on-diaspora-css.php
+/share.php?buttons=
+/share/count?
+/share/footer/*
+/share/frame/*
+/share42.js
+/shareArrow.png
+/shareBar/*
+/shareBtn_
+/shareFacebook.jpg
+/shareFacebook.png
+/shareIcons.$~stylesheet
+/shareTT.js
+/shareThisIcons.png
+/shareTools.js
+/shareTwitter.jpg
+/shareTwitter.png
+/share_button?
+/share_count.js
+/share_iframe.js
+/share_popup.js
+/share_sprite.png
+/share_toolbar.js
+/share_view.js
+/share_wechat.jpg
+/share_wechat.png
+/share_weibo.jpg
+/share_weibo.png
+/shareaholic.js
+/sharebar.js
+/sharebars/*
+/sharebutton?
+/sharecount/*
+/sharecounter?
+/sharecounts/*
+/shared-social-
+/shared/btn_
+/shared/social/*
+/sharedaddy.js
+/sharedaddy/sharing.min.js
+/sharefb_icon.png
+/shareicon-
+/shareit.js
+/shareit_
+/shareon.iife.js
+/shareon.min.css
+/sharer.js
+/shares/batch?
+/sharestats.cache.php?
+/sharethis-buttons.js
+/sharethis.js
+/sharetool.php?
+/sharetw_icon.png
+/shariff.complete.js
+/shariff.min.js
+/sharing-buttons.
+/sharing/sprites/*
+/sharing_icons/*
+/shrMain.min.js
+/shr_btn_
+/sidebar-facebook-
+/sidebar-follow.
+/sidebar-pinterest-
+/sidebar-social.
+/sidebar-twitter.
+/sidebar/social/*
+/sidebar_facebook.png
+/sidebar_twitter.png
+/silicon-counters.js
+/simple-back-to-top//js/sbtt.js
+/simple-share-$~stylesheet
+/simple-social-sharing/*$image
+/simpleshare.js
+/site-notification-desk.min.js
+/site/share/*
+/skm/assets/share/*
+/sm-share-
+/sm-youtube-
+/sm_share_
+/smart-app-banner.js
+/sme-facebook-$image
+/smio-push-notification/js/frontend_webpush.js
+/sn_share_
+/snow-fall.js
+/snow-falling.js
+/snow-storm.js
+/snow.min.js
+/snow/snow.js
+/snowfall-master.min.js
+/snowfall.jquery.js
+/snowfall.jquery.min.js
+/snowstorm-min.js
+/snowstorm.js
+/snowstorm.min.js
+/snowstorm2.js
+/sns_naverband.
+/snstoolbar.
+/soc_bottom_
+/soc_facebook2.
+/socbutton/*
+/sociables/*
+/social-bar.
+/social-footer.jpg
+/social-footer.png
+/social-popup/*
+/social-proof-testimonials-slider/admin/js/slick-block-editor.js
+/social-twit.png
+/social-twit.svg
+/social-url-generator.js
+/social-url-generator.minc.js
+/social-widgets-
+/social/sprite-
+/social2s.min.js
+/socialBarSprite.
+/socialCounts?
+/socialFooterSprite.
+/socialSmall/*
+/social_balloon-
+/social_black/*
+/social_bookmarking.png
+/social_bookmarking/*$image
+/social_bookmarks/*
+/social_footer.
+/social_header.
+/social_headers.
+/social_hovers.
+/social_hub/*
+/social_popup.
+/social_subscribe_
+/social_tools.
+/social_tube-
+/social_widget.$~stylesheet
+/social_widget/*
+/social_widget?
+/socialappsintegrator.
+/socialbadges.
+/socialbar-
+/socialbar.$~stylesheet
+/socialbar_
+/socialbookmarkerbot_images/*
+/socialbookmarks.
+/socialbookmarks/*
+/socialcount.js
+/socialcount.min.js
+/socialcounters/*
+/socialcounts/*$script
+/socialfacebookdark.
+/socialfooter.
+/socialgoogledark.
+/socialhomesprite2.
+/socialite.js
+/socialite.min.js
+/socialize/*$~stylesheet
+/sociallocker-
+/socialmediabuttons.
+/socialmediasprite.png
+/socialnetwork-buttons/*
+/socialplugins/*
+/socialshares.js
+/socialsite/*
+/socialsprites.
+/socialstat?
+/socialtwitter1.png
+/socialwd/*
+/sociofluid/*$~script,~stylesheet
+/squaresocial-
+/stocktwits_share.png
+/subscribe-popup.js
+/subscribe-push-notifications.js
+/subscriber.newsletter.js
+/synved-social/image/*
+/t42-content-protector/js/protector.min.js
+/tab-slide/assets/js/tab_slide.js
+/taboola-header.js
+/taboola.js
+/taboola/loader.js
+/taboolaHead.js
+/tabs/social/*
+/tapatalkdetect.js
+/tarful-share-public.js
+/td-newsletter/style.css
+/thrive-leads/thrive-dashboard/js/dist/frontend.min.js
+/to_pagetop.png
+/tools/newSideShare/*
+/topbutton.js
+/tweet_footer.png
+/twfooter.png
+/twitbadge.jpg
+/twitter-follow-
+/twitter-footer-
+/twitter-v2.jpg
+/twitter-v2.png
+/twitter-widget.jpg
+/twitter-widget.png
+/twitter_badge.png
+/twitter_follow.jpg
+/twitter_follow.png
+/twitter_footer.jpg
+/twitter_footer.png
+/twitter_header.jpg
+/twitter_header.png
+/twitter_square.png
+/twitter_square.svg
+/twitterbadge.png
+/twitterfloat.js
+/twitterfollow.jpg
+/twitterfollow.png
+/twitterlib.js
+/twitteron.jpg
+/twitteron.png
+/twittersquare.png
+/tz-nwslttr.js
+/ui.totop_.png
+/upprev.js
+/upprev_js.php
+/userlike-cdn-
+/v1/newsletters/*
+/videojs-share.js
+/viewboxTraffic_min.js
+/visual/social/*
+/vk_button.jpg
+/vk_button.png
+/vto_plus/js_loader.php
+/web-push-notifications.js
+/web-push.js
+/web-push/init.min.js
+/webPushNotifications.js
+/webalert-notification.js
+/webnotf.js
+/webnotification.js
+/webpush-production.js
+/webpush.js
+/webpush.min.js
+/webpush_register.php
+/weiboshare.html
+/whatsapp-button.js
+/whatsapp_button.php
+/whatsapp_icon.png
+/whatsappblogger.js
+/whatsappshare.jpg
+/whatsappshare.js
+/widget/share?
+/widget/share_
+/widgets/sharing-
+/widgets/socials/*
+/widgets/twitter/*
+/wonderplugin-popup-engine.js
+/wonderpush-loader.min.js
+/wonderpush.js
+/wonderpush.min.js
+/wordpress-fire-push-public.js
+/wordpress-popup/*$domain=ahchealthenews.com
+/wp-content/plugins/advanced-facebook-content-locker/*
+/wp-content/plugins/ko-fi-button/js/widget.js
+/wp-content/plugins/popover/js/public.min.js
+/wp-content/plugins/videolock/*$script
+/wp-content/plugins/woocommerce-notification/*
+/wp-followme/*
+/wp-notification-bars-public.js
+/wp-snow-effect-pro-public.js
+/wp-snow-effect-pro/public/js/jsnow.js
+/wp-snow-effect-public.js
+/wp-snow-effect/public/js/jsnow.js
+/wp-social-media-
+/wp-social-toolbar/*
+/wp-subscribe-pro/js/wp-subscribe-form.js
+/wpfront-scroll-top.min.js
+/wpmu-lib/js/wpmu-ui.3.min.js
+/wysija-newsletters/css/validationEngine.jquery.css
+/xnapp/share/*
+/xsocial-icons.
+/xsocial_sprites_
+/xwpblocks-newsletter-subscription-style.css?
+/ya-share.js
+4399.com##+js(aopr, defaultbackgroundimg)
+4kdownload.com##.page-header:style(top:0 !important)
+6abc.com,abc11.com,abc13.com,abc30.com,abc7.com,abc7chicago.com,abc7news.com,abc7ny.com##+js(rc, dock, , stay)
+6abc.com,abc11.com,abc13.com,abc30.com,abc7.com,abc7chicago.com,abc7news.com,abc7ny.com##.dock
+9gag.com##.open-in-app
+9gag.com##body:style(overflow: auto !important;)
+://webim.*/button.js
+://webim.*/button.php
+_backToTop.
+_facebook_banner/
+_footer_share_
+_footer_socials.
+_footer_twitter.
+_header_share.
+_instagram_badge
+_instagram_hover.
+_mvsocialbuttons/
+_pinterest_square_
+_share_bookmark.
+_share_widget_
+_sharrre.php?
+_slideshare.
+_small_share.
+_sns-hatena.
+_sns_me2day.
+_social-bar/
+_social_badge_$~xmlhttprequest
+_social_bookmark/
+_social_bookmarks/
+_social_footer_
+_socialfancysliders/
+_socialmediabox_
+_socialtoggle.
+_sosyal_bar.
+_sp_social/
+_twitter_follow.
+abeka.com###newsLetterSignup
+abeka.com##.modal-backdrop
+abeka.com##body,html:style(overflow: auto !important; position: initial !important;)
+abhiandroid.com##.cp-modal-popup-container
+abhiandroid.com##body,html:style(height: auto !important; overflow: auto !important)
+aihome.com.my,ipowerqueen.com##.mfp-ready
+aihome.com.my,ipowerqueen.com##body,html:style(overflow: auto !important; position: initial !important;)
+all3dp.com##+js(rc, root-modal-container-open, body, stay)
+all3dp.com##.modal-container
+allbirds.co.nz,allbirds.com,allbirds.com.au###backdrop-container
+allbirds.co.nz,allbirds.com,allbirds.com.au##.EmailSignupModal__portal
+allbirds.co.nz,allbirds.com,allbirds.com.au##body,html:style(overflow: auto !important; position: initial !important;)
+americastestkitchen.com###piano-modal-backdrop
+americastestkitchen.com##.tp-container-inner
+americastestkitchen.com##body,html:style(overflow: auto !important; position: initial !important;)
+amp.reddit.com##.AppSelectorModal__body
+amp.reddit.com##.upsell_banner
+analyticsvidhya.com##+js(nostif, loginModal)
+apnews.com##.fancybox-overlay-fixed
+apnews.com##body,html:style(overflow: auto !important; position: initial !important;)
+apotekfordeg.no##.modal-backdrop
+apotekfordeg.no##.newsletter-modal
+apotekfordeg.no##body:style(overflow: auto !important; position: initial !important;)
+arcade1up.com##.tingle-modal
+arcade1up.com##body:style(overflow: scroll !important; position: unset !important)
+ardene.com,biglots.com,toysrus.ca##.modal
+ardene.com,biglots.com,toysrus.ca##body,html:style(overflow: auto !important; position: initial !important;)
+artribune.com##+js(set-cookie, m6e-newsletter, 1)
+asia.nikkei.com,businesspost.ie,rappler.com##.tp-backdrop
+asia.nikkei.com,businesspost.ie,rappler.com##.tp-modal
+asia.nikkei.com,businesspost.ie,rappler.com##body:style(height: auto !important; overflow: auto !important)
+ask.fm##.lightbox_overlay
+ask.fm##body:style(overflow: auto !important)
+assos.com##+js(set-cookie, popup-newsletter, true)
+atelierskn.com###shopify-section-popups
+atelierskn.com##body,html:style(overflow: auto !important; position: initial !important;)
+atlasobscura.com##.modal-backdrop
+atlasobscura.com##.modal-sm-fullscreen
+atlasobscura.com##body:style(overflow: auto !important; position: initial !important;)
+audioholics.com##.modal
+audioholics.com##.modal-backdrop
+audioholics.com,theconversation.com##body:style(overflow: auto !important;)
+audius.co##+js(rc, scrollLock, , stay)
+audius.co##[class*="AppRedirectPopover_container_"]
+audius.co##body:style(overflow: scroll !important)
+australiangolfdigest.com.au,sfpublicpress.org,matomo.org,coloradotimesrecorder.com,artificialintelligence-news.com,thurrott.com,hypebot.com,fatgirlskinny.net,moneymagpie.com,verdadeiroolhar.pt,thecanary.co##.pum
+australiangolfdigest.com.au,sfpublicpress.org,matomo.org,coloradotimesrecorder.com,artificialintelligence-news.com,thurrott.com,hypebot.com,fatgirlskinny.net,moneymagpie.com,verdadeiroolhar.pt,thecanary.co##html:style(overflow:auto !important)
+authenticoilco.com,geizdental.de##.modals-wrapper
+authenticoilco.com,geizdental.de##body:style(overflow: auto !important; position: initial !important;)
+autoevolution.com###notif_asker_div
+autoevolution.com##body,html:style(height: auto !important; overflow: auto !important)
+axios.com##.Modal_ctaContainer__kHYHl
+axios.com##body,html:style(overflow: auto !important; position: initial !important;)
+ba-bamail.com##body:style(overflow: auto !important;)
+babiesrus.ca,toysrus.ca##+js(set-cookie, isNewsletterPopupShown, false, , reload, 1)
+babylonbee.com##.modal-backdrop
+babylonbee.com##body:style(overflow: auto !important;)
+backcountry.com##.chakra-modal__content-container
+backcountry.com##.chakra-portal
+backcountry.com##body,html:style(overflow: auto !important; position: initial !important;)
+ballantynes.co.nz##.modal-backdrop
+ballantynes.co.nz##.modal-scrollable
+ballantynes.co.nz##body,html:style(overflow: auto !important; position: initial !important;)
+banistmo.com##+js(ra, oncontextmenu|onselectstart|ondragstart|oncopy|oncut|onpaste|onbeforecopy)
+bankbazaar.com##.dimmer
+bankbazaar.com##.modal-backdrop
+bankbazaar.com##.oneTapLoginModal
+bankbazaar.com##body:style(overflow: auto !important; position: initial !important;)
+beckershospitalreview.com##.becker_doubleclick
+beckershospitalreview.com##body:style(overflow: auto !important)
+bedbathandbeyond.com###page_triggers
+bedbathandbeyond.com##body,html:style(overflow: auto !important; position: initial !important;)
+behance.net##.PrimaryNav-appLinkContainer-bhx
+behance.net##.js-vue-mobile-app-upsell
+behance.net##body,html:style(overflow: auto !important; position: initial !important;)
+belstad.com##+js(set-local-storage-item, is_announcement_closed, true)
+bestbuy.com###smartbannerContainer
+bestbuy.com##+js(set-local-storage-item, smartBannerDismissed, 1)
+bestbuy.com##body:style(margin-top:0px !important)
+bestrecipes.com.au##+js(cookie-remover.js, br_mc)
+bitcoinke.io,carsalesbase.com##.modal-wrap
+bitcoinke.io,carsalesbase.com##body,html:style(overflow: auto !important; position: initial !important;)
+blooloop.com##.c-popup
+blooloop.com##body,html:style(overflow: auto !important; position: i nitial !important;)
+bloomberg.com##+js(set-local-storage-item, history, $remove$)
+bloomberg.com##.banner
+bloomberg.com##figure:style(opacity: 1 !important;)
+bonappetit.com##+js(cookie-remover.js, pay_ent_msmp)
+bonappetit.com##+js(cookie-remover.js, pay_ent_pass)
+bonappetit.com##.journey-unit__container
+brainly.co.id##.js-react-registration-toplayer
+brainly.co.id##body.sg-dialog-no-scroll:style(overflow: auto !important; position: static !important;)
+brandingmag.com,straightarrownews.com,staygenerator.com##.reveal-overlay
+brandingmag.com,straightarrownews.com,staygenerator.com##body,html:style(overflow: auto !important; position: initial !important;)
+breachmedia.ca##+js(set-cookie, cp_style_3841, true)
+breakingenergy.com###simplemodal-overlay
+breakingenergy.com##body,html:style(overflow: auto !important; position: initial !important;)
+brighteon.com##.overlay
+brighteon.com##body,html:style(overflow: auto !important; position: initial !important;)
+broadbandbreakfast.com,404media.co##.outpost-cta
+broadbandbreakfast.com,404media.co##body,html:style(overflow: auto !important; position: initial !important;)
+build.com###modal-root
+build.com##body:style(overflow: auto !important; position: initial !important;)
+calvinklein.at,calvinklein.be,calvinklein.bg,calvinklein.ch,calvinklein.co.uk,calvinklein.com,calvinklein.cz,calvinklein.de,calvinklein.dk,calvinklein.ee,calvinklein.es,calvinklein.fi,calvinklein.fr,calvinklein.hr,calvinklein.hu,calvinklein.ie,calvinklein.it,calvinklein.lt,calvinklein.lu,calvinklein.lv,calvinklein.nl,calvinklein.pl,calvinklein.pt,calvinklein.ru,calvinklein.se,calvinklein.si,calvinklein.sk##.ck-modal--newsletter-modal-wrapper
+calvinklein.at,calvinklein.be,calvinklein.bg,calvinklein.ch,calvinklein.co.uk,calvinklein.com,calvinklein.cz,calvinklein.de,calvinklein.dk,calvinklein.ee,calvinklein.es,calvinklein.fi,calvinklein.fr,calvinklein.hr,calvinklein.hu,calvinklein.ie,calvinklein.it,calvinklein.lt,calvinklein.lu,calvinklein.lv,calvinklein.nl,calvinklein.pl,calvinklein.pt,calvinklein.ru,calvinklein.se,calvinklein.si,calvinklein.sk##body:style(overflow: auto !important; position: initial !important;)
+canva.com##.BB_TDQ[style="height: auto; max-height: 66vh;"]
+canva.com##body:style(overflow: auto !important; position: initial !important;)
+cbs8.com,firstcoastnews.com,kare11.com,wtsp.com,ajc.com,wfaa.com,9news.com,fox2now.com,wcnc.com,13newsnow.com,wsvn.com,abc15.com,wwltv.com,wkyc.com,wthr.com,11alive.com,wcnc.com,wusa9.com,wfaa.com,9news.com,fox2now.com,abc15.com,wwltv.com,wkyc.com,king5.com,11alive.com##+js(aeld, /^(mouseout|mouseleave)$/)
+cbsnews.com##+js(rc, floating, , stay)
+cbsnews.com##.floating
+cecile.co.jp##.smartbanner-show:style(margin-top: 0 !important;)
+chillamo.com,zerobreeze.com,otisoatmilk.co.nz###shopify-section-newsletter-popup
+chillamo.com,zerobreeze.com,otisoatmilk.co.nz##html:style(overflow:auto !important)
+cityam.com##+js(rc, js-page-scroll-lock, body, stay)
+cityam.com##.subscription-modal
+cityandstateny.com##+js(rc, interstitial, aside, stay)
+cityandstateny.com##.conversion-module
+cityandstateny.com##body:style(overflow: auto !important;)
+cjr.org###interContainer
+cjr.org###interVeil
+cjr.org##html:style(overflow: auto !important; position: initial !important;)
+clarin.com##+js(nostif, _waitingAuth0Counter)
+clevercreations.org##+js(set-cookie, mailerlite:forms:shown:109925949413262377, 1)
+clevercreations.org##.ml-embedded
+clubhouseforchefs.ca##.current.blocker
+clubhouseforchefs.ca##body:style(overflow: auto !important; position: initial !important;)
+clutchpoints.com##+js(set-local-storage-item, nbaSIBWidgetSeen, true)
+cnet.com##.c-globalModal
+cnet.com##.c-shoppingExtModal
+cnet.com##.modal-backdrop
+cnet.com##.modalSelector
+cnet.com##body:style(height: auto !important; overflow: auto !important)
+cnn.com##+js(set-local-storage-item, REG_WALL_METER, $remove$)
+cnn.com##+js(set-local-storage-item, perm_cnn_regwall_v1, $remove$)
+cnn.com##.bx-impress
+cnn.com##html:style(overflow: auto !important; position: initial !important;)
+coinbase.com##.ReactModal__Overlay
+coinbase.com##body:style(overflow: auto !important; position: initial !important;)
+coinpaprika.com##.coins-promo
+coinpaprika.com##body:style(overflow: auto !important; position: initial !important;)
+commondreams.org###XCPBKJJD
+commondreams.org##.fun-widget-backdrop-holder
+commondreams.org##body,html:style(overflow: auto !important; position: initial !important;)
+contiki.com##.lcw-modal__parent
+contiki.com##body,html:style(overflow: auto !important; position: initial !important;)
+copilot.microsoft.com##.sac3p_popup_overlay
+copilot.microsoft.com##body,html:style(overflow: auto !important; position: initial !important;)
+core.app##+js(set-local-storage-item, show-email-intake-form, false)
+crealitycloud.com##+js(set-local-storage-item, closeGuideRegisterTime, 1)
+crealitycloud.com##+js(set-local-storage-item, permission_open_push, 1)
+crunchbase.com##+js(set-local-storage-item, entity-limiter-views, $remove$)
+cryptobriefing.com##body,html:style(overflow: auto !important; position: initial !important;)
+csmonitor.com##+js(set-local-storage-item, csm_unique_stories, $remove$)
+csmonitor.com##.stickyMessenger-cta
+cube-magazin.de##.cs-newsletter-registration-overlay
+cube-magazin.de##.js--overlay
+cube-magazin.de##body,html:style(overflow: auto !important; position: initial !important;)
+curiocity.com##.fancybox-is-open
+curiocity.com##body:style(overflow: auto !important;)
+daadscholarship.com##+js(abort-on-property-write, LaraPush)
+dailynewsegypt.com,hdwalle.com,megacatstudios.com,scholarlykitchen.sspnet.org,daphneoz.com##.mfp-bg
+dailynewsegypt.com,hdwalle.com,megacatstudios.com,scholarlykitchen.sspnet.org,daphneoz.com##.mfp-wrap
+dailynewsegypt.com,hdwalle.com,megacatstudios.com,scholarlykitchen.sspnet.org,daphneoz.com##html:style(overflow:auto !important)
+dailynewshungary.com##+js(set-local-storage-item, wp_dark_mode_active, 1)
+dailyvoice.com##.b-modal.b-dialog
+dailyvoice.com##body:style(overflow: auto !important; position: initial !important;)
+dallasnews.com###courier-body-wrapper:style(overflow: auto !important; position: initial !important;)
+dallasnews.com##.dmn-newsletter-overlay
+dallasnews.com##.dmnc_features-cta-newsletter-cta-newsletter-module__eQOmx
+decrypt.co##.left-0.top-0.fixed
+decrypt.co##body:style(overflow: auto !important; position: initial !important;)
+deepl.com##+js(set-local-storage-item, LMT_freeUserUsageBlock, $remove$)
+deepl.com##+js(set-local-storage-item, onboardingData, $remove$)
+dell.com###mh-ext-signupemail-modal
+dell.com##body:style(overflow: auto !important; position: initial !important;)
+democracynow.org###campaign_modal
+democracynow.org###overlay
+democracynow.org##+js(rc, not_scroll, , stay)
+democracynow.org##body,html:style(overflow: auto !important; position: initial !important;)
+deribit.com##+js(set-local-storage-item, appCardSeen, true)
+deskhero.ca##.react-responsive-modal-root
+deskhero.ca##body:style(overflow: auto !important; position: initial !important;)
+dgb.de##+js(rc, js-show-newsletter-popup, , stay)
+dgb.de##.js-newsletter-popup
+dgb.de##.js-newsletter-popup-inner
+dgmlive.com##.modal
+dgmlive.com##.modal-backdrop
+dgmlive.com##body:style(overflow: auto !important; position: initial !important;)
+docs.aws.amazon.com###floating-experience-feature-tour-popover
+docs.aws.amazon.com###view-__module-context__-_amzn_conversational-experience-module__tandalone-0
+dollartree.com###email-signup-template
+dollartree.com##.modal-backdrop
+dollartree.com##body,html:style(overflow: auto !important; position: initial !important;)
+downace.com##+js(acis, requestPermission)
+drinkspy.co.nz##.modal-backdrop
+drinkspy.co.nz##body:style(overflow: auto !important; position: initial !important;)
+dsw.com##.overlay
+dsw.com##body,html:style(overflow: auto !important; position: initial !important;)
+duluthtrading.com##+js(set-local-storage-item, emailLightBox, true)
+e360.yale.edu##.swal2-container
+e360.yale.edu##body,html:style(overflow: auto !important; position: initial !important;)
+ebay.com##.pc-dweb
+ebay.com##html:style(overflow: auto !important; position: initial !important;)
+eksisozluk.com###app-suggestion-container
+eksisozluk.com##body,html:style(overflow: auto !important; position: initial !important;)
+elearn.interviewgig.com##.post_share
+elimento.com##.has-newsletter
+elimento.com##.popup-modal-mask
+elimento.com##body,html:style(overflow: auto !important; position: initial !important;)
+ello.co##.asDecapitated
+ello.co##body,html:style(overflow: auto !important; position: initial !important;)
+emailnator.com##.modal
+emailnator.com##.modal-backdrop
+emailnator.com##.top-banner
+envol-vert.org##.cp-modal-popup-container
+envol-vert.org,latina.com##.avada-footer-scripts
+envol-vert.org,latina.com##body,html:style(overflow: auto !important; position: initial !important;)
+everyday-reading.com##.tve-leads-lightbox
+everyday-reading.com##body,html:style(overflow: auto !important; position: initial !important;)
+expatexplore.com,scmagazine.com,vadimkravcenko.com##.swal2-container
+expatexplore.com,scmagazine.com,vadimkravcenko.com##html,body:style(overflow: auto !important; position: initial !important;)
+expedia.at,expedia.co.id,expedia.co.in,expedia.co.jp,expedia.co.kr,expedia.co.nz,expedia.co.th,expedia.co.uk,expedia.com.ar,expedia.com.au,expedia.com.hk,expedia.com.sg,expedia.de,expedia.dk,expedia.es,expedia.fi,expedia.fr,expedia.it,expedia.no,expedia.se,hotels.com,expedia.nl,expedia.com###app-layer-customer-notification-centered-sheet-dialog
+expedia.at,expedia.co.id,expedia.co.in,expedia.co.jp,expedia.co.kr,expedia.co.nz,expedia.co.th,expedia.co.uk,expedia.com.ar,expedia.com.au,expedia.com.hk,expedia.com.sg,expedia.de,expedia.dk,expedia.es,expedia.fi,expedia.fr,expedia.it,expedia.no,expedia.se,hotels.com,expedia.nl,expedia.com##body,html:style(overflow: auto !important; position: initial !important;)
+fantasyfootballhub.co.uk##+js(set-session-storage-item, modalViewed, true)
+fastcompany.com##.fancybox-overlay
+fastcompany.com##body,html:style(height: auto !important; overflow: auto !important)
+finance.yahoo.com##.YDC-Overlay
+finance.yahoo.com##html:style(overflow: auto !important; position: initial !important;)
+fine-day.com##.chakra-portal
+fine-day.com##html,body:style(overflow: auto !important; position: initial !important;)
+flightradar24.com##+js(set-cookie, map_new_features_new_flightradar24_com_label_options, 1)
+flovitamins.com###shopify-section-signup-modal
+flovitamins.com##body:style(overflow: auto !important; position: initial !important;)
+foliosociety.com##.modals-overlay
+foliosociety.com##.popup-newsletter
+foliosociety.com##body:style(overflow: auto !important; position: initial !important;)
+food.ndtv.com##+js(set-cookie, ndtvfood_isSubscribed_elex_v1, no)
+forbes.com##+js(rc, zephr-modal-open, body, stay)
+forbes.com##.zephr-editorial-newsletter-backdrop
+forbes.com##.zephr-editorial-newsletter-modal
+forbes.com##html:style(position: static !important; overflow: auto !important; width: auto !important;)
+forbestravelguide.com###cboxOverlay
+forbestravelguide.com###colorbox
+forbestravelguide.com##html,body:style(overflow: auto !important; position: initial !important;)
+foreignaffairs.com##.newsletter-backdrop
+foreignaffairs.com##body,html:style(overflow: auto !important; position: initial !important;)
+forsvaretsforum.no##.mm-popup-wrapper
+forsvaretsforum.no##body:style(height: auto !important; overflow: auto !important)
+forvo.com##.mfp_academy-enjoy-private-lesson-popup
+forvo.com##html:style(overflow: unset !important)
+foundit.com.ph##+js(set-session-storage-item, isDownloadAppBannerClosed, true)
+fredmeyer.com##.kds-Modal-overlay
+fredmeyer.com##body:style(overflow: auto !important; position: initial !important;)
+freshbooks.com##.modal-backdrop
+freshbooks.com##.trackingSection-modal
+freshbooks.com##body,html:style(overflow: auto !important; position: initial !important;)
+freshchoice.co.nz##[data-broadcast-modal]:remove()
+frontofficesports.com##.body-overlay
+frontofficesports.com##.newsletter-popup
+frontofficesports.com##html,body:style(overflow: auto !important; position: initial !important;)
+ftm.eu##.blockingOverlay
+ftm.eu##html:style(overflow: auto !important)
+funko.com,loungefly.com##+js(set-cookie, welcome_modal_email_ts, 1)
+fxstreet.com##body,html:style(overflow: auto !important; position: initial !important;)
+gcn.com,washingtontechnology.com,fcw.com##.conversion-module
+gcn.com,washingtontechnology.com,fcw.com##.subscribe
+gcn.com,washingtontechnology.com,fcw.com##html,body:style(overflow: auto !important; position: initial !important;)
+generalpants.com##.reveal-modal
+generalpants.com##.reveal-modal-bg
+generalpants.com##body:style(overflow: auto !important; position: initial !important;)
+geopoliticalmonitor.com###maillist-modal
+geopoliticalmonitor.com##.modal-backdrop
+geopoliticalmonitor.com##body:style(height: auto !important; overflow: auto !important)
+github.com##button[data-testid="copilot-popover-button"]
+glassblocktint.com##.cp-modal-popup-container
+glassblocktint.com##body:style(height: auto !important; overflow: auto !important)
+glasses.com###newsletter-modal
+glasses.com##.form-container
+glasses.com##body,html:style(height: auto !important; overflow: auto !important)
+globoshoes.com##.main-overlay-container
+globoshoes.com##body:style(overflow: auto !important; position: initial !important;)
+gmarket.co.kr##+js(set, document.oncontextmenu, noopFunc)
+gmarket.co.kr##+js(set, document.onmousedown, noopFunc)
+goodhousekeeping.com,delish.com,esquire.com##body:style(overflow: auto !important; position: initial !important;)
+goodhousekeeping.com,delish.com,esquire.com##journey-modal-newsletter
+gourmetfoodstore.com##+js(set-cookie, SuppressInterstitial, true, , reload, 1)
+govtrack.us##.modal-backdrop
+govtrack.us##body:style(overflow: auto !important;)
+grammarly.com##.ReactModalPortal:has-text(confidence)
+grammarly.com##body:style(overflow: auto !important;)
+gulte.com###awt_popup_landing
+gulte.com##body:style(overflow: auto !important;)
+hackster.io##.styles__dialog__1KnWX
+hackster.io##body:style(height: auto !important; overflow: auto !important)
+harborfreight.com##.dy-modal-container
+harborfreight.com##body:style(overflow: auto !important; position: initial !important;)
+hcn.org###pelcro-app
+hcn.org##body,html:style(overflow: auto !important; position: initial !important;)
+headphonebar.com,jolinne.com##.fancybox-container
+headphonebar.com,jolinne.com##body:style(overflow: auto !important; position: initial !important;)
+health.harvard.edu##.sticky-popup
+health.harvard.edu##body:style(overflow: auto !important; position: initial !important;)
+heraldlive.co.za,dispatchlive.co.za###register-popup-backdrop
+heraldlive.co.za,dispatchlive.co.za##.register-modal-popup-wrapper
+heraldlive.co.za,dispatchlive.co.za##body,html:style(overflow: auto !important; position: initial !important;)
+hiddenvalley.com###sms-opt-in-modal
+hiddenvalley.com##body,html:style(overflow: auto !important; position: initial !important;)
+history.com##.modal
+history.com##body,html:style(overflow: auto !important; position: initial !important;)
+hollywoodunlocked.com##.featherlight
+hollywoodunlocked.com##body,html:style(overflow: auto !important; position: initial !important;)
+huckberry.com##.fade
+huckberry.com##.modal-content
+huckberry.com##body,html:style(height: auto !important; overflow: auto !important)
+humankinetics.com##.fancybox-overlay
+humankinetics.com##body,html:style(overflow: auto !important; position: initial !important;)
+iconduck.com##+js(set-cookie, client-mailingListModalShown, true)
+idsnews.com###ids-newsletter-modal
+idsnews.com##.modal-backdrop
+idsnews.com##body,html:style(overflow: auto !important; position: initial !important;)
+ifunny.co##.aq4y._0sJI
+ifunny.co##body,html:style(overflow: auto !important; position: initial !important;)
+imagecolorpicker.com###geist-ui-modal
+imagecolorpicker.com##body,html:style(overflow: auto !important; position: initial !important;)
+imgur.io##.SeeImgurOIA-container
+imgur.io##.SeeImgurOIA-overlay
+imgur.io##body:style(overflow: auto !important; position: initial !important;)
+impulkits.com,bygonely.com,musclecarsandtrucks.com,thepetslife.online##.g1-popup-newsletter
+impulkits.com,bygonely.com,musclecarsandtrucks.com,thepetslife.online##body,html:style(overflow: auto !important; position: initial !important;)
+independent.co.uk##+js(rc, sticky, , stay)
+independent.co.uk,allrecipes.com##+js(rc, jw-flag-floating, , stay)
+inews.hket.com###app-floating-button
+inews.hket.com##+js(rc, no-scroll, html, stay)
+inews.hket.com##.app-redirect-panel
+informatykzakladowy.pl##body:style(overflow: auto !important;)
+inquinte.ca##+js(rc, blocked, body, stay)
+inquinte.ca##.redirect-background
+inquirer.com,heraldnet.com,thehill.com,newsnationnow,therecord.com,parent.com##.fancybox-overlay
+inquirer.com,heraldnet.com,thehill.com,newsnationnow,therecord.com,parent.com##body,html:style(overflow: auto !important; position: initial !important;)
+insider.com,businessinsider.com##.app-button
+insider.com,businessinsider.com##.in-app-banner
+insider.com,businessinsider.com##body:style(overflow: auto !important; position: initial !important;)
+insidethegames.biz###contribute-modal
+insidethegames.biz##.modal-backdrop
+insidethegames.biz##body,html:style(overflow: auto !important; position: initial !important;)
+instacart.com###native-app-upsell-interstitial
+instacart.com##body:style(height: auto !important; overflow: auto !important)
+investopedia.com##.mntl-dialog--campaign
+investopedia.com##html,body:style(overflow: auto !important; position: initial !important;)
+investors.com##.exit-intent-modal
+investors.com##body:style(overflow: auto !important; position: initial !important;)
+izumi.jp###s_header[style="top: 84px;"]:style(top: 0 !important;)
+izumi.jp##html[data-smartbanner-original-margin-top="0"][style="margin-top: 84px;"]:style(margin-top: 0 !important;)
+jessicabryson.com##.dialog-lightbox-widget
+jessicabryson.com##body:style(overflow: auto !important; position: initial !important;)
+jewishinsider.com##.subscribeModalOuter
+jewishinsider.com##body,html:style(overflow: auto !important; position: initial !important;)
+jingdaily.com##+js(set-cookie, newsletter, true)
+journeys.ca###modalSignup
+journeys.ca##.modal-backdrop
+journeys.ca##body:style(overflow: auto !important; position: initial !important;)
+jp-m.banggood.com##+js(rc, show-app-bar, , stay)
+jumia.ci,jumia.co.ke,jumia.com.eg,jumia.com.gh,jumia.com.ng,jumia.com.tn,jumia.dz,jumia.ma,jumia.sn,jumia.ug##.popup
+jumia.ci,jumia.co.ke,jumia.com.eg,jumia.com.gh,jumia.com.ng,jumia.com.tn,jumia.dz,jumia.ma,jumia.sn,jumia.ug##body,html:style(position: static !important; overflow: auto !important; width: auto !important;)
+justthenews.com###bio_ep
+justthenews.com###bio_ep_bg
+justthenews.com##body,html:style(overflow: auto !important; position: initial !important;)
+kartable.fr##body,html:style(overflow: auto !important; position: initial !important;)
+kartable.fr##push-more-content
+kbtx.com,kptv.com##+js(rc, powa-sticky, , stay)
+kbtx.com,kptv.com##.powa-sticky
+kermitlynch.com##+js(set-cookie, hidePopUp, true)
+kftv.com###modalnewsletter___BV_modal_outer_
+kftv.com##body:style(overflow: auto !important; position: initial !important;)
+kitchentime.com,kitchentime.de,kitchentime.dk,kitchentime.fi,kitchentime.no,kitchentime.se##.popup-overlay
+kitchentime.com,kitchentime.de,kitchentime.dk,kitchentime.fi,kitchentime.no,kitchentime.se##body,html:style(height: auto !important; overflow: auto !important)
+knowablemagazine.org###newsModel
+knowablemagazine.org##.modal-backdrop
+knowablemagazine.org##body,html:style(overflow: auto !important; position: initial !important;)
+launer.com##.modal:has([style^='background-image: url("/assets/newsletter-'])
+launer.com##html:style(overflow: auto !important)
+lawinsider.com##+js(cookie-remover, tce, when, scroll)
+leevalley.com###newsletter-signup-modal
+leevalley.com##.lv-modal-blocker
+leevalley.com##body:style(overflow: auto !important; position: initial !important;)
+levernews.com##.lp-popup__iframe-wrapper
+levernews.com##body,html:style(overflow: auto !important; position: initial !important;)
+levi.com##.full-vp-welcome-modal-wrapper
+levi.com##body:style(overflow: auto !important; position: initial !important;)
+lightnovelworld.com###lnwappmsg
+lightnovelworld.com##html:style(overflow: auto !important;)
+lilysilk.com##.subscribe-maskLayer
+lilysilk.com##.subscribe-popup
+lilysilk.com##body:style(overflow: auto !important; position: initial !important;)
+linkedin.com##.overlay
+linkedin.com##.promo
+linkedin.com##.promo-bottom-sheet
+linkedin.com##body:style(overflow: auto !important; position: initial !important;)
+linux.do##.custom-gated-topic-container
+linux.do##.topic-in-gated-category .container.posts::before:style(background: transparent !important;)
+linux.do##body.topic-in-gated-category:remove-class(topic-in-gated-category)
+liquidationgta.com##.mfp-bg
+liquidationgta.com##.mfp-wrap
+liquidationgta.com##body,html:style(overflow: auto !important; position: initial !important;)
+littleburgundyshoes.com##.modal-backdrop
+littleburgundyshoes.com##.modal-email-signup
+littleburgundyshoes.com##body:style(overflow: auto !important; position: initial !important;)
+logicool.co.jp##.email-subscription-modal
+logicool.co.jp##body[style="overflow: hidden;"]:style(overflow: auto !important;)
+logitech.com##.email-subscription-modal
+logitech.com##body,html:style(overflow: auto !important; position: initial !important;)
+lonelyplanet.com##.jsx-3f4fe83626c3275
+lonelyplanet.com##html,body:style(overflow: auto !important; position: initial !important;)
+loyalfordogs.com##+js(set-local-storage-item, join-popup-closed, true)
+m.economictimes.com###prominentOverlay
+m.economictimes.com##body,html:style(overflow: auto !important; position: initial !important;)
+m.investing.com##.withAppBanner:style(top:0 !important)
+m.webtoons.com##.dim
+m.webtoons.com##.pop_download_home
+m.yelp.com,m.yelp.co.uk,m.yelp.ca,m.yelp.com.au,m.yelp.co.nz,m.yelp.dk,m.yelp.de,m.yelp.fi,m.yelp.cz,m.yelp.fr,m.yelp.es,m.yelp.pt,m.yelp.it,m.yelp.no,m.yelp.se,m.yelp.ie,m.yelp.com.tr,m.yelp.com.br,m.yelp.nl,m.yelp.com.mx,m.yelp.co.jp,m.yelp.com.tw,m.yelp.be##[aria-label*="Download the Yelp app"]
+m.yelp.com,m.yelp.co.uk,m.yelp.ca,m.yelp.com.au,m.yelp.co.nz,m.yelp.dk,m.yelp.de,m.yelp.fi,m.yelp.cz,m.yelp.fr,m.yelp.es,m.yelp.pt,m.yelp.it,m.yelp.no,m.yelp.se,m.yelp.ie,m.yelp.com.tr,m.yelp.com.br,m.yelp.nl,m.yelp.com.mx,m.yelp.co.jp,m.yelp.com.tw,m.yelp.be##[data-testid="OpenAppButton"]
+m.yelp.com,m.yelp.co.uk,m.yelp.ca,m.yelp.com.au,m.yelp.co.nz,m.yelp.dk,m.yelp.de,m.yelp.fi,m.yelp.cz,m.yelp.fr,m.yelp.es,m.yelp.pt,m.yelp.it,m.yelp.no,m.yelp.se,m.yelp.ie,m.yelp.com.tr,m.yelp.com.br,m.yelp.nl,m.yelp.com.mx,m.yelp.co.jp,m.yelp.com.tw,m.yelp.be##body,html:style(overflow: auto !important; position: initial !important;)
+m.yelp.com,m.yelp.co.uk,m.yelp.ca,m.yelp.com.au,m.yelp.co.nz,m.yelp.dk,m.yelp.de,m.yelp.fi,m.yelp.cz,m.yelp.fr,m.yelp.es,m.yelp.pt,m.yelp.it,m.yelp.no,m.yelp.se,m.yelp.ie,m.yelp.com.tr,m.yelp.com.br,m.yelp.nl,m.yelp.com.mx,m.yelp.co.jp,m.yelp.com.tw,m.yelp.be##div[class^="overlay__09f24"]
+m.youtube.com##.YtWebScrimDialogContainer
+m.youtube.com##.YtWebScrimHostModernOverlay
+m.youtube.com##.ytm-bottom-sheet-overlay-renderer-container[style="transform: translateY(0px);"]
+m.youtube.com##body:style(overflow: auto !important; position: initial !important;)
+makemytrip.com##.appDnldOffers
+makemytrip.com##.overlay-wrapper
+makemytrip.com##body:style(overflow: unset !important)
+mashable.com##.bx-impress
+mashable.com##body:style(overflow: auto !important; position: initial !important;)
+massivetoyblowout.ca##.wcb-md-modal
+massivetoyblowout.ca##.wcb-md-overlay
+massivetoyblowout.ca##body:style(overflow: auto !important; position: initial !important;)
+matadornetwork.com##.brazen-modal
+matadornetwork.com##body:style(height: auto !important; overflow: auto !important)
+mathway.com##.ch-bubble-border.clickable .ch-bubble-action:style(pointer-events: auto;)
+mathway.com##.ch-bubble-border.clickable:style(pointer-events: none;)
+mbt-store.com###newsletterModal
+mbt-store.com##.index-wrap:style(overflow: auto !important;)
+mbt-store.com##.modal-backdrop
+mediadump.com##.g1-newsletter
+mediadump.com##body,html:style(overflow: auto !important; position: initial !important;)
+metro.co.uk###share-buttons-bottom
+metro.co.uk###share-buttons-top
+metro.co.uk##.footer-follow
+metro.co.uk##.item-share-buttons
+metro.co.uk##.share-buttons-floaty
+mightyape.co.nz##+js(rc, modal-open, body, stay)
+mightyape.co.nz##.modal-backdrop
+mightyape.co.nz##.newsletter-nag-modal
+milenio.com##html:style(overflow: auto !important; position: initial !important;)
+milwaukeetool.com###modal-darkener
+milwaukeetool.com##.lead-gen-pop-up
+milwaukeetool.com##body,html:style(overflow: auto !important; position: initial !important;)
+miravia.es###g_download_bar
+miravia.es##html:style(--g-header-top-pos: 0vw !important;)
+modesens.com###signmd___BV_modal_outer_
+modesens.com##body,html:style(overflow: auto !important; position: initial !important;)
+mofi.com###shopify-section-popup
+mofi.com##body,html:style(position: static !important; overflow: auto !important; width: auto !important;)
+mountainwarehouse.com###sledgehammer
+mountainwarehouse.com##body,html:style(overflow: auto !important; position: initial !important;)
+msnbc.com,today.com,nbcnews.com##+js(rc, styles_stuck__gtILi, , stay)
+msnbc.com,today.com,nbcnews.com##.styles_stuck__gtILi
+mydramalist.com##+js(rc, smartbanner-active, body)
+mypenndentist.org##+js(set-cookie, undefinedpopup-pdfpcouponoffer, 1)
+nationalgeographic.com##+js(aeld, scroll)
+nationalgeographic.com##.EmailStickyFooter__Modal
+nationalgeographic.com##body:style(overflow: auto !important; position: initial !important;)
+nautil.us##+js(cookie-remover, arc)
+nbc4i.com,ktla.com,ktsm.com,kark.com,myarklamiss.com,nwahomepage.com,mytwintiers.com,news10.com,wavy.com##+js(rc, desktop-floating-player, , stay)
+nbc4i.com,ktla.com,ktsm.com,kark.com,myarklamiss.com,nwahomepage.com,mytwintiers.com,news10.com,wavy.com##.desktop-floating-player
+nbc4i.com,ktla.com,ktsm.com,kark.com,myarklamiss.com,nwahomepage.com,mytwintiers.com,news10.com,wavy.com##.desktop-video-title-bar
+neilpatel.com##+js(rc, mfp-popup-exit-quiz-v2, , stay)
+neilpatel.com##.mfp-ready
+neilpatel.com##body,html:style(overflow: auto !important; position: initial !important;)
+nerdwallet.com##._1y2JXo
+nerdwallet.com##body,html:style(overflow: auto !important; position: initial !important;)
+networldsports.ca,summitracing.com##.reveal-overlay
+networldsports.ca,summitracing.com##body,html:style(overflow: auto !important; position: initial !important;)
+newrepublic.com##.blink-sdk-widget-container
+newrepublic.com##body,html:style(overflow: auto !important; position: initial !important;)
+newrepublic.com##html:style(overflow: auto !important)
+news18.com##+js(acis, serviceworker.register)
+newsbreak.com##.bottom-0.fixed
+newsbreak.com##body:style(height: auto !important; overflow: auto !important)
+nieuwsblad.be##.cj-root
+nieuwsblad.be##body:style(overflow: auto !important;)
+nimsdai.com##.newsletter-popup
+nimsdai.com##body,html:style(overflow: auto !important; position: initial !important;)
+nisanyansozluk.com##+js(set-local-storage-item, newYeradlariWebsiteHidden, true)
+numero.com##.type-newsletter_subscription
+numero.com##body,html:style(overflow: auto !important; position: initial !important;)
+nzherald.co.nz##+js(set-cookie, apv, false)
+ociservices.gov.in###advisoryModadId1
+ociservices.gov.in##.modal-backdrop
+ociservices.gov.in##body,html:style(overflow: auto !important; position: initial !important;)
+ohsweetbasil.com##.tl-states-root
+ohsweetbasil.com##body,html:style(overflow: auto !important; position: initial !important;)
+olaproducts.co.nz##.newsletter__lightbox
+olaproducts.co.nz##body,html:style(height: auto !important; overflow: auto !important)
+oled-info.com##+js(set-cookie, awpopup_501941328, 1)
+onedio.com##+js(set-cookie, o-push-alert, 1)
+oneesports.gg###onePassportModal
+oneesports.gg###onePassportOverlay
+oneesports.gg##html,body:style(overflow: auto !important; position: initial !important;)
+onegreenplanet.org##body:style(display: block !important)
+opensecrets.org##+js(rc, js-no-scroll, html, stay)
+opensecrets.org##.is-visible.js-init.Modal
+otisoatmilk.co.nz,socialitelife.com##html:style(overflow:auto !important)
+overstock.com###page_triggers
+overstock.com##body:style(overflow: auto !important; position: initial !important;)
+partsinmotion.co.uk###fancybox-overlay
+partsinmotion.co.uk##body,html:style(overflow: auto !important; position: initial !important;)
+patreon.com##+js(aeld, touchmove, preventDefault)
+paulaschoice.com##+js(set-local-storage-item, signUpModalClosed_slot-paulaschoice_us-global-signUpModal-sfmcModal, 1)
+pawread.com##+js(set-local-storage-item, countChapterNum, $remove$)
+pbteen.com##.join_email_capture_component
+pbteen.com##body:style(overflow: auto !important; position: initial !important;)
+pcipolicyportal.com,reclaimthenet.org##.elementor-popup-modal
+pcipolicyportal.com,reclaimthenet.org##body:style(position: static !important; overflow: auto !important; width: auto !important;)
+perplexity.ai##+js(set-session-storage-item, shouldShowAuthBannerAfterQuery, false)
+perplexity.ai##+js(set-session-storage-item, signUpBannerDismissed, true)
+petri.com###bww-advertising-popup-overlay
+petri.com##body,html:style(overflow: auto !important; position: initial !important;)
+phonearena.com###pa-survey-modal
+phonearena.com##.pa-modal-backdrop
+phonearena.com##body:style(overflow: auto !important; position: initial !important;)
+pitviper.com##.yotpo-smsbump-modal__backdrop
+pitviper.com##[id^="smsbump-form-"]
+pitviper.com##body,html:style(height: auto !important; overflow: auto !important)
+player.fm##.bottom-promo
+player.fm##.bottom-promo-overlay
+player.fm##body,html:style(overflow: auto !important; position: initial !important;)
+plough.com##+js(remove-cookie, ArticlePaywallList)
+plough.com##.article-paywall
+posylka.de##.modal-custom--overlay
+posylka.de##html,body:style(overflow: auto !important; position: initial !important;)
+prompthero.com##.modal-backdrop
+prompthero.com##.sign-up-modal
+prompthero.com##body:style(overflow:initial!important)
+prowritingaid.com##.exit-popup
+prowritingaid.com##body:style(overflow: auto !important;)
+psychcentral.com###modal-host
+psychcentral.com##body,html:style(overflow: auto !important; position: initial !important;)
+publiclands.com##.modal-wrapper
+publiclands.com##body:style(overflow: auto !important; position: initial !important;)
+publish0x.com###registerPopup
+publish0x.com##body:style(position: static !important; overflow: auto !important; width: auto !important;)
+pushmycart.com##.popup
+pushmycart.com##body,html:style(overflow: auto !important; position: initial !important;)
+puuilo.fi##.cf-container-wrapper
+puuilo.fi##body:style(overflow: auto !important)
+pv-magazine-usa.com###newsletter-modal
+pv-magazine-usa.com##body,html:style(height: auto !important; overflow: auto !important)
+quillbot.com##+js(set-local-storage-item, mode-quills, $remove$)
+racketsandrunners.ca##.popUp-overlay
+racketsandrunners.ca##body,html:style(overflow: auto !important; position: initial !important;)
+railsnotes.xyz##+js(set-cookie, exit-intent, true)
+rakentaja.fi###ctl00_verkkolehdenmainos
+rakentaja.fi##.in.fade.modal-backdrop
+rakentaja.fi##body:style(overflow: auto !important)
+rd.fi##.nivoSlider:remove()
+readergrev.com##+js(set-cookie, popup_closed, true)
+readtangle.com##.js-intro
+readtangle.com##body,html:style(overflow: auto !important; position: initial !important;)
+realestate.co.nz##.z-overlay
+realestate.co.nz##body:style(height: auto !important; overflow: auto !important)
+rebelnews.com##.remodal-overlay
+rebelnews.com##.remodal-wrapper
+rebelnews.com##html:style(overflow: auto !important)
+recyclingproductnews.com##.card-newsletter-modal
+recyclingproductnews.com##[style*="opacity:"]
+recyclingproductnews.com##body,html:style(overflow: auto !important; position: initial !important;)
+reddit.com##+js(aeld, block-body-scrolling)
+reddit.com##+js(rc, scroll-disabled, body, stay)
+reddit.com##+js(set-local-storage-item, xpromo-consolidation, 1)
+reddit.com##.PreviewDrawer
+reddit.com##.XPromoBlockingModal
+reddit.com##.XPromoBlockingModalRpl
+reddit.com##.XPromoInFeed
+reddit.com##.XPromoPill
+reddit.com##.XPromoPopup
+reddit.com##.XPromoPopupRpl
+reddit.com##.XPromoPopup__overlay
+reddit.com##body.scroll-disabled:style(overflow: visible!important; position: static!important;)
+reddit.com##body:style(overflow: auto !important;)
+reddit.com##body:style(pointer-events:auto !important;)
+reddit.com##shreddit-experience-tree
+redfin.com##+js(rc, stickyBanner, , stay)
+relieved.co,sweetandsavory.co,animalchannel.co,seeitlive.co,parentingisnteasy.co,spotlightstories.co,homehacks.co###email-modal-container
+relieved.co,sweetandsavory.co,animalchannel.co,seeitlive.co,parentingisnteasy.co,spotlightstories.co,homehacks.co###email-modal-overlay
+relieved.co,sweetandsavory.co,animalchannel.co,seeitlive.co,parentingisnteasy.co,spotlightstories.co,homehacks.co##body:style(overflow: auto !important; position: initial !important;)
+reuters.com##+js(set-local-storage-item, ArcP, $remove$)
+reuters.com##.site-header__inner__ZJDlb:style(top:0 !important)
+revolve.com,fwrd.com##.modal
+revolve.com,fwrd.com##.modal-overlay
+revolve.com,fwrd.com##body,html:style(height: auto !important; overflow: auto !important)
+revolver.news##.blocker
+revolver.news##body:style(overflow: auto !important;)
+rktbns.de##.arcticmodal-container
+rktbns.de##.arcticmodal-overlay
+rktbns.de##body,html:style(overflow: auto !important; position: initial !important;)
+route-fifty.com##.interstitial-show
+route-fifty.com##body:style(overflow: auto !important;)
+sainsburysmagazine.co.uk##.subscription-popup
+sainsburysmagazine.co.uk##body:style(overflow: auto !important; position: initial !important;)
+sammobile.com##+js(set-local-storage-item, request-permission-modal, 1)
+saucerco.com##+js(set-cookie, newsletter-newsletter-popup, true)
+scetv.org,berkeleyearth.org##.fancybox-container
+scetv.org,berkeleyearth.org##body:style(overflow: auto !important; position: initial !important;)
+scientificamerican.com###emailCollectorModalOverlay
+scientificamerican.com##body,html:style(overflow: auto !important; position: initial !important;)
+scmagazine.com,bibleportal.com,uinterview.com,moneycontrol.com,fermatslibrary.com,worlddogfinder.com,insauga.com,moroccoworldnews.com,thecradle.co,vegnews.com,bandt.com.au,pbsamerica.co.uk,wateronline.com,boredpanda.com,artnet.com,bongino.com,lensculture.com,patch.com,projectcbd.org,media4growth.com,nycgo.com,thepostmillennial.com,zorbabooks.com,bellhelmets.com,humanevents.com##.modal
+scmagazine.com,bibleportal.com,uinterview.com,moneycontrol.com,fermatslibrary.com,worlddogfinder.com,insauga.com,moroccoworldnews.com,thecradle.co,vegnews.com,bandt.com.au,pbsamerica.co.uk,wateronline.com,boredpanda.com,artnet.com,bongino.com,lensculture.com,patch.com,projectcbd.org,media4growth.com,nycgo.com,thepostmillennial.com,zorbabooks.com,bellhelmets.com,humanevents.com##.modal-backdrop
+scmagazine.com,bibleportal.com,uinterview.com,moneycontrol.com,fermatslibrary.com,worlddogfinder.com,insauga.com,moroccoworldnews.com,thecradle.co,vegnews.com,bandt.com.au,pbsamerica.co.uk,wateronline.com,boredpanda.com,artnet.com,bongino.com,lensculture.com,patch.com,projectcbd.org,media4growth.com,nycgo.com,thepostmillennial.com,zorbabooks.com,bellhelmets.com,humanevents.com##body:style(overflow: auto !important;)
+screenrant.com,androidpolice.com,cbr.com,collider.com,dualshockers.com,gamerant.com,howtogeek.com,makeuseof.com,movieweb.com,pocketnow.com,thegamer.com,thetravel.com,xda-developers.com##+js(cookie-remover.js, articlesRead)
+scribd.com##._2kkM6y:style(padding-top: unset !important;)
+scribd.com##.exit_modal
+scribd.com##.modal_open:style(height: auto !important; overflow: auto !important;)
+scribd.com##div[data-testid="desktop-leaderboard"]
+sears.com##+js(set-session-storage-item, banner_session, true)
+securityweek.com##+js(rc, pum-open-overlay, body, stay)
+securityweek.com##.pum-overlay
+securityweek.com##body,html:style(overflow: auto !important; position: initial !important;)
+seekingalpha.com##+js(set-local-storage-item, __tp-gaAccount, disabled)
+semafor.com##+js(set-session-storage-item, floating-sign-up-dismissed, true)
+sfstandard.com##.items-start.fixed
+sfstandard.com##body:style(height: auto !important; overflow: auto !important)
+sharperimage.com##+js(set-cookie, mystery_popup, true)
+shein.com##.c-vue-coupon
+shein.com##.sui-modal
+shein.com##body:style(overflow: auto !important; position: initial !important;)
+shop-apotheke.com##+js(set-session-storage-item, ErxModal, true)
+shop.libbey.com,italianluxurygroup.com.au,tiedex.co.uk,tweeters.ca##.shopify-section-group-popup-group
+shop.libbey.com,italianluxurygroup.com.au,tiedex.co.uk,tweeters.ca##body:style(overflow: auto !important; position: initial !important;)
+shoppingsouthparkmall.com##.gooble-omodal
+shoppingsouthparkmall.com##body:style(height: auto !important; overflow: auto !important)
+similarweb.com##+js(rc, app-banner-parent, body, stay)
+similarweb.com##.app-header:style(top:0 !important)
+simpleswap.io##.iRXLZi
+simpleswap.io##body,html:style(overflow: auto !important; position: initial !important;)
+simplyrecipes.com,shape.com,verywellhealth.com,southernliving.com,thespruceeats.com,seriouseats.com,allrecipes.com,tripsavvy.com,travelandleisure.com,verywellmind.com,foodandwine.com##.mntl-dialog--campaign
+simplyrecipes.com,shape.com,verywellhealth.com,southernliving.com,thespruceeats.com,seriouseats.com,allrecipes.com,tripsavvy.com,travelandleisure.com,verywellmind.com,foodandwine.com##html,body:style(overflow: auto !important; position: initial !important;)
+slickdeals.net##.bottomBarContainer
+slickdeals.net##.sdModalOverlay
+slickdeals.net##body:style(overflow: auto !important; position: initial !important;)
+smocca.jp##+js(set, history.state, undefined)
+snackstack.net##.jetpack-subscribe-modal
+snackstack.net##body,html:style(overflow: auto !important; position: initial !important;)
+socialitelife.com##.mfp-ready
+splashlearn.com,linuxbabe.com##.pum-active
+splashlearn.com,linuxbabe.com##html:style(overflow: auto !important)
+sports.ndtv.com###__cricketsubscribe
+sports.ndtv.com###overlaybtn
+sports.ndtv.com##body,html:style(overflow: auto !important; position: initial !important;)
+sportsbusinessjournal.com##+js(cookie-remover, sbj_archiveStatus)
+sportsbusinessjournal.com##.paywall-footer-container
+sportskeeda.com##.newsletter-ui
+sportskeeda.com##body:style(overflow: auto !important; position: initial !important;)
+spotlightpa.org##.inset-0.fixed
+spotlightpa.org##body,html:style(overflow: auto !important; position: initial !important;)
+spring.org.uk##.hustle-popup
+spring.org.uk##body,html:style(overflow: auto !important; position: initial !important;)
+sprintmedical.in##.react-responsive-modal-root
+sprintmedical.in##body:style(height: auto !important; overflow: auto !important)
+staradvertiser.com##.breakingPopUp
+staradvertiser.com##.modal-backdrop
+staradvertiser.com##body,html:style(overflow: auto !important; position: initial !important;)
+startribune.com##+js(remove-cookie, client_id)
+statista.com###newsletterPopupOverlay
+statista.com##body,html:style(overflow: auto !important; position: initial !important;)
+stcatharinesstandard.ca,thepeterboroughexaminer.com,niagarafallsreview.ca,therecord.com,thespec.com,wellandtribune.ca##.modal-backdrop
+stcatharinesstandard.ca,thepeterboroughexaminer.com,niagarafallsreview.ca,therecord.com,thespec.com,wellandtribune.ca##.promo-designer-modal
+stcatharinesstandard.ca,thepeterboroughexaminer.com,niagarafallsreview.ca,therecord.com,thespec.com,wellandtribune.ca##body,html:style(overflow: auto !important; position: initial !important;)
+stylewe.com###cartx-wrap
+stylewe.com##body:style(overflow: auto !important; position: initial !important;)
+sweetteacaviar.com###swell-overlay
+sweetteacaviar.com###swell-popup
+sweetteacaviar.com##[id^="smsbump-form-"]
+sweetteacaviar.com##body,html:style(overflow: auto !important; position: initial !important;)
+sweetwater.com##+js(set-cookie, sws-gwpop, 1)
+swissinfo.ch###newsletter-flyin
+swissinfo.ch##body,html:style(overflow: auto !important; position: initial !important;)
+syfy.com##.blog-post__gated__wrapper
+syfy.com##body,html:style(overflow: auto !important; position: initial !important;)
+t-nation.com##.toggle_lb_scrolling_mobile
+t-nation.com##body:style(position: static !important; overflow: auto !important; width: auto !important;)
+talkingpointsmemo.com##+js(cookie-remover, tpm_article_views)
+talkingpointsmemo.com##+js(cookie-remover, tpm_page_views)
+talkingpointsmemo.com##.MeteredBumperWinter24Widget
+tapinto.net##.exit_intent_pop_up-0-2-2
+tapinto.net##body,html:style(overflow: auto !important; position: initial !important;)
+tastemade.com##+js(set-local-storage-item, hide-cookbook-modal-0, true)
+tekinvestor.no##+js(nostif, custom-modal-create-account-link)
+telemundopr.com,nbcchicago.com,nbcdfw.com,nbcboston.com,nbcconnecticut.com,nbcphiladelphia.com,nbcsandiego.com,nbclosangeles.com,nbcnewyork.com,nbcbayarea.com##+js(rc, video-flyout--fixed, , stay)
+temu.com###bg-simple-portal-container
+temu.com###bg_pc_benefit_download_modal_container_id
+temu.com##.sticky-2vWAY:style(top: 0px; transform: translate(-50%, 0rem) !important)
+temu.com##body:style(overflow: auto !important; position: initial !important;)
+texasmonthly.com##+js(rc, float-player, , stay)
+texasmonthly.com##.float-player
+thebaffler.com##.boxzilla-container
+thebaffler.com##.boxzilla-overlay
+thebaffler.com##html,body:style(overflow: auto !important; position: initial !important;)
+thebfd.co.nz##body:style(overflow: auto !important; position: initial !important;)
+theblock.co##.modal-container
+theblock.co##body:style(overflow: auto !important;)
+thebulletin.org,npr.org,vice.com,forward.com,nationalobserver.com,washingtontimes.com,monroenews.com,poconorecord.com##.tp-backdrop
+thebulletin.org,npr.org,vice.com,forward.com,nationalobserver.com,washingtontimes.com,monroenews.com,poconorecord.com##.tp-modal
+thebulletin.org,npr.org,vice.com,forward.com,nationalobserver.com,washingtontimes.com,monroenews.com,poconorecord.com##body:style(height: auto !important; overflow: auto !important)
+thebump.com##+js(set-cookie, registration_modal_dismissed, true)
+theconversation.com##.MuiDialog-root
+thecradle.co##.support-popup
+thecradle.co##body,html:style(height: auto !important; overflow: auto !important)
+thedesignlove.com##.cp-overlay
+thedesignlove.com##body,html:style(overflow: auto !important; position: initial !important;)
+thedp.com##.modal
+thedp.com##.modal-backdrop
+thedp.com##body,html:style(overflow: auto !important; position: initial !important;)
+theepochtimes.com##.showTopNav
+theepochtimes.com##body,html:style(overflow: auto !important; position: initial !important;)
+thefp.com###myEmailModal
+thefp.com##body:style(overflow: scroll !important)
+thehill.com##+js(rc, desktop-floating-player, , stay)
+theinformation.com##+js(set-cookie, marketing-modal-closed-1, 2)
+thejournal.ie##+js(set-local-storage-item, total_page_views, 2)
+themonthly.com.au##+js(set-local-storage-item, rn, $remove$)
+themoscowtimes.com##.contribute-bar
+themoscowtimes.com##.contribute-modal
+themoscowtimes.com##body:style(overflow: auto !important;)
+thenation.com##.tp-backdrop
+thenation.com##.tp-modal
+thenation.com##.tp-modal-overscroll-prevented
+thenation.com##body,html:style(overflow: auto !important;)
+theolivepress.es##+js(remove-cookie, issuem_lp)
+thestar.com##+js(rc, kumulos-background-mask-blur, , stay)
+thestar.com##.kumulos-background-mask
+thestar.com##.kumulos-prompt
+thestar.com##body,html:style(overflow: auto !important; position: initial !important;)
+thethaiger.com##html:style(overflow: auto !important;)
+thetruthaboutcars.com###cms-popup
+thetruthaboutcars.com##body:style(position: static !important; overflow: auto !important; width: auto !important;)
+theweek.com##+js(set-local-storage-item, kiosq_article_reset, $remove$)
+theweek.com##+js(set-local-storage-item, kiosq_article_url_ack, $remove$)
+tietoevry.com##body:style(overflow: auto !important)
+tiktok.com##+js(set-session-storage-item,webapp_first_open_cta, 1)
+tiktok.com##.e1pecv674.css-99ed1t-DivFooterGuide
+tiktok.com##.e1x4pa920.css-18fyv6p-DivFloatButtonWrapper
+torpedo7.co.nz##.open-js-modal-full
+torpedo7.co.nz##body,html:style(overflow: auto !important; position: initial !important;)
+tradedepot.co.nz##.modal
+tradedepot.co.nz##.modal-background
+tradedepot.co.nz##body:style(overflow: auto !important; position: initial !important;)
+tradingview.com##+js(nostif, window.loginStateChange.subscribe)
+travelcaffeine.com##.featherlight
+travelcaffeine.com##body,html:style(overflow: auto !important; position: initial !important;)
+treblezine.com###newsletter-popup
+treblezine.com##.newsletter-popup
+treblezine.com##body,html:style(height: auto !important; overflow: auto !important)
+trip.com##.tcp-h5-install-pop
+trip.com##body:style(overflow: auto !important; position: initial !important;)
+truthout.org###XABNJHEY
+truthout.org##.fun-widget-backdrop-holder
+truthout.org##body:style(overflow: auto !important; position: initial !important;)
+trutone.ca,frontrunners.ca,fruugo.co.uk,lull.com,otterbox.com,pulseuniform.com,saksfifthavenue.com,shop.pbs.org,szucstermekek.com,zumub.com##.modal
+trutone.ca,frontrunners.ca,fruugo.co.uk,lull.com,otterbox.com,pulseuniform.com,saksfifthavenue.com,shop.pbs.org,szucstermekek.com,zumub.com##.modal-backdrop
+trutone.ca,frontrunners.ca,fruugo.co.uk,lull.com,otterbox.com,pulseuniform.com,saksfifthavenue.com,shop.pbs.org,szucstermekek.com,zumub.com##body:style(overflow: auto !important; position: initial !important;)
+tsc.ca##.email-popup__overlay
+tsc.ca##body:style(overflow: auto !important; position: initial !important;)
+tsunagujapan.com##.js-modal_wrap
+tsunagujapan.com##html,body:style(overflow: auto !important; position: initial !important;)
+tunein.com##+js(set-cookie, hideMacDesktopDialog, true)
+tunein.com##+js(set-cookie, navBasedDialogManager, true)
+ufret.jp###full-screen-ad
+ufret.jp##.no-scroll:style(overflow: auto !important;)
+ultraslan.com##.fancybox-overlay
+ultraslan.com##body,html:style(height: auto !important; overflow: auto !important)
+upworthy.com##.mailchimp-popup-overlay-upworthy
+upworthy.com##.mailchimp-popup-upworthy
+upworthy.com##body:style(overflow: auto !important; position: initial !important;)
+urbanoutfitters.com##+js(set-local-storage-item, modalViewed, 1)
+vallejosun.com##body,html:style(overflow: auto !important; position: initial !important;)
+vallejosun.com##div[id^="popup-smart-root-"]
+valuewalk.com##.mfp-ready
+valuewalk.com##body,html:style(overflow: auto !important; position: initial !important;)
+vargooutdoors.com###shopify-section-custom-popup
+vargooutdoors.com##body,html:style(overflow: auto !important; position: initial !important;)
+vat19.com##.swal2-container
+vat19.com##body,html:style(height: auto !important; overflow: auto !important)
+vernyx.com,simmiwoman.co.uk##.newsletterwrapper
+vernyx.com,simmiwoman.co.uk##body,html:style(overflow: auto !important; position: initial !important;)
+verybestbaking.com##.gdn-popup-modal
+verybestbaking.com##html,body:style(overflow: auto !important; position: initial !important;)
+vitaminworld.com##.silk-modal-root
+vitaminworld.com##body:style(overflow: auto !important; position: initial !important;)
+vrbo.com###app-layer-customer-notification-centered-sheet-dialog
+vrbo.com##+js(rc, has-uitk-sheet, body, stay)
+wafuu.com##.contact-form
+wafuu.com##.modal-backdrop
+wafuu.com##body:style(overflow: auto !important; position: initial !important;)
+walletinvestor.com###bio_ep
+walletinvestor.com###bio_ep_bg
+walletinvestor.com##body:style(overflow: scroll !important)
+watchsomuchproxy.com###ModalWindow
+watchsomuchproxy.com###btnStopAds
+watchsomuchproxy.com##.modal-backdrop
+watchsomuchproxy.com##body:style(overflow: scroll !important)
+wfaa.com,wkyc.com,9news.com,11alive.com##+js(rc, video__docker_state_docked, , stay)
+wilcooffroad.com,detroitmodular.com,metrocheese.com,bwpsales.com,fitnessav.com,gronkfitnessproducts.com,hockeylion.ca,justcloseoutscanada.ca,kitchenutopia.ca,lakshmistores.com###shopify-section-newsletter-popup
+wilcooffroad.com,detroitmodular.com,metrocheese.com,bwpsales.com,fitnessav.com,gronkfitnessproducts.com,hockeylion.ca,justcloseoutscanada.ca,kitchenutopia.ca,lakshmistores.com##body,html:style(height: auto !important; overflow: auto !important)
+williams-sonoma.com###join-email-campaign
+williams-sonoma.com##body:style(overflow: auto !important; position: initial !important;)
+worldcrunch.com##*:style(filter: none !important)
+worldcrunch.com##body,html:style(height: auto !important; overflow: auto !important)
+worldcrunch.com##div[id*="snewsletter-popup-MailChimp_"]
+wunderground.com##+js(rc, enable-sda, body, stay)
+wusa9.com,wkyc.com,9news.com,11alive.com##.video__docker_state_docked
+www.microsoft.com###modalsRenderedAfterPageLoad
+www.microsoft.com##.modal-backdrop
+www.microsoft.com##body,html:style(overflow: auto !important; position: initial !important;)
+www.nicovideo.jp##:matches-path(/\/(search|tag)\//) .nicoadVideoItem
+www.nicovideo.jp##:matches-path(/tag/).nicodicNicoadVideoList
+www.razer.com##.modal-backdrop
+www.razer.com##.modal-newsletter
+www.razer.com##body:style(overflow: auto !important; position: initial !important;)
+yahoo.com##+js(rc, vp-docked, , stay)
+yahoo.com##+js(rc, vp-docked-mode, , stay)
+yesmagazine.org##.fajardo-campaign
+yesmagazine.org##body:style(overflow: auto !important; position: initial !important;)
+yvonnebennetti.com##+js(set-cookie, MCPopupClosed, yes)
+zenith-watches.com###modal-generic-modal
+zenith-watches.com##html:style(height: auto !important; overflow: auto !important)
+zillow.com###pfs-upsell:remove()
+zillow.com##.app-upsell-banner
+zillow.com##.exposed-filters:style(top:0 !important)
+zippia.com##+js(cookie-remover, _zippia-popup-s_t)
+zippia.com##+js(nosiif, /onGatedSignupPopupTrigger|zippia-popup/)
+zippia.com##+js(set-local-storage-item, gatedSignupTimerCounter, $remove$)
+zyro.com##.ebook-before-leave-modal
+zyro.com##body:style(overflow: auto !important; position: initial !important;)
+||0564.ua/assets/d6ade384/js/alertsWidget.js
+||1worldonline.com^$third-party
+||24nettbutikk.chat^$third-party
+||24smi.org^$third-party
+||37signals.com^$third-party
+||3cx.com/livechat/
+||3cx.uk^$third-party
+||9to5terminal.com/push.js
+||a.mailmunch.co/app/$script,third-party
+||abendpoint.com/dist/js/push.js
+||accengage.net^$third-party
+||acquire.io/assets/sound/
+||acquire.io^$third-party
+||actionbutton.co^$third-party
+||actirinius.com^$third-party
+||activehosted.com^$third-party
+||ad-hoc-news.de/js/push.js
+||addinto.com^$third-party
+||addnow.com^$third-party
+||addthis.com^$third-party
+||addthiscdn.com^$domain=~addthis.com
+||addtoany.com^$third-party
+||adobe-campaign.com^$third-party
+||advantagemedia.com^$third-party
+||aeon.co/_next/static/chunks/SupportBannerHeader.
+||afrik21.africa/wp-content/themes/afrik21/images/news.png
+||agazeta.com.br/assets/javascript/notification.js
+||aimtell.com^$third-party
+||alertme.news^$third-party
+||alerts.ndtv.com^
+||alerts.thedailystar.net^
+||alibaba.com/sw.js
+||alive5.com^$third-party
+||allpass.salemwebnetwork.com^$third-party
+||amazonaws.com/alive5cdn/$media
+||amazonaws.com/cdn.aimtell.com/
+||amazonaws.com/fby.js
+||amazonaws.com/fby/
+||amazonaws.com/mailmunch/$script
+||amazonaws.com^*/feedback-v2.js
+||annahar.com/assets/js/notifications.js
+||apester.com^$third-party
+||apex.live/media/$media
+||apex.live^$third-party
+||api-push.com^$third-party
+||api.botsonic.ai^$third-party
+||api.branch.io^$third-party
+||api.giphy.com^*/related?$third-party
+||api.pico.tools^$third-party
+||api.postscript.io/v2/public/popups/
+||api.qwant.com/*/homepage/trends?
+||api.search.live.net^$third-party,domain=~bing.com
+||api.visitor.chat^$third-party
+||app.actionfeed.net/app/popup.js
+||app.adjust.net.in/smart_banner
+||app.avada.io^$third-party
+||app.chaport.com/sounds/
+||app.chaport.com^$third-party
+||app.chatplus.jp^$third-party
+||app.convertful.com^$third-party
+||app.e2ma.net^$third-party
+||app.leadspin.dk^$third-party
+||app.mymaisie.com/static/chatbot-component/
+||app.onlim.com/app/assets/audios/
+||app.viralsweep.com^$domain=insidethemagic.net
+||appboy.eu^$third-party
+||appspot.com/newsletter/dhtml?
+||appspot.com/sounds/chatmsg.mp3
+||artdaily.cc/subscribe.html
+||assets.pinterest.com/js/pinit.js$third-party
+||assets.pinterest.com/pidget.html$third-party
+||assistant.almaintelligence.com^
+||astian.org/?push_notification_sw
+||astutebot.com^$third-party
+||aswpsdkeu.com^$third-party
+||aswpsdkus.com^$third-party
+||attraqt.io^$third-party
+||autolinkmaker.itunes.apple.com^$third-party
+||awhy.it^$third-party
+||azureedge.net/js/cookie_notificacao.min.js
+||azureedge.neti^$media,domain=oct8ne.com
+||b.hatena.ne.jp^$third-party
+||b.st-hatena.com/images/$image,third-party,domain=~b.hatena.ne.jp
+||b.st-hatena.com/js/$script,third-party,domain=~b.hatena.ne.jp
+||bac-assets.com/chat/spa-assets/$media,domain=bankofamerica.com
+||bac-assets.com/spa/widgets/www-chat/$media,domain=bankofamerica.com
+||badge.facebook.com^$third-party
+||badges.instagram.com^$third-party
+||batch.com^$third-party
+||bdstatic.com/linksubmit/push.js
+||beehiiv.com^$domain=marktechpost.com
+||beeketing.com^$third-party
+||behamics.com^$third-party
+||beopinion.com^$third-party
+||bibblio.org^$third-party
+||bigbangnews.com/sw.js
+||bildirnet.com^$third-party
+||bildirt.com^$third-party
+||bing.com*/bootstrap.js$third-party
+||bing.com/widget/render/$third-party
+||birdeye.com^$third-party
+||blink.net/json/$xmlhttprequest
+||blockmetrics.com^$third-party
+||blogcatalog.com^$third-party
+||blogengage.com^$third-party
+||bloglines.com^$third-party
+||bloglovin.com/widget/$third-party
+||blogtopsites.com^$third-party
+||boldchat.com^$third-party
+||bookmrk.us^$third-party
+||boost.ai/chatPanel/$third-party
+||bosspush.com^$third-party
+||bot.leadoo.com^$third-party
+||botgenes.org^$third-party
+||botmind.io^$third-party
+||botsrv2.com^$third-party
+||braze.com^$third-party
+||breedingmoms.com/js/top.js
+||brightinfo.com^$third-party
+||browser-updater.yandex.net^
+||browserpusher.com^$third-party
+||bshare.cn^$third-party
+||btn.createsend1.com^$third-party
+||bunnycdn.ru/assets/_bnx/
+||button-share.zalo.me^$third-party
+||button.like.co^$third-party
+||buttons.github.io/buttons.js$third-party
+||buttons.googlesyndication.com^$third-party
+||buy-au.piano.io/checkout/template/cacheableShow?*&experienceId=*&widget=template
+||call.chatra.io^
+||callback24.io/sounds/
+||callpage.io^$third-party
+||cappushino.com^$third-party
+||carambo.la^$third-party
+||carchat24.com/inpagechat/audio/$media
+||carchat24.com^$third-party
+||carrotquest.app/sounds/
+||carrotquest.io^$third-party
+||cdn-1.tstatic.net/js/copy.js
+||cdn-sitegainer.com^$third-party
+||cdn-widget.callpage.io/build/sounds/
+||cdn.asksuite.com/infochat.js
+||cdn.qgr.ph^$third-party
+||cdn.qgraph.io^$third-party
+||cdn.shopify.com/extensions/*/assets/inbox-chat-loader.js
+||cdn.shopify.com/extensions/*/salekit-v2.js
+||cdn.shopify.com/proxy/*.smsbump.com/
+||celebjihad.com^$third-party
+||centrnotify.com^$third-party
+||chan.sankakucomplex.com/javascripts/sp/s-new.js
+||channel.io/plugin/$media
+||chat-widget.hiverhq.com^
+||chat.broadly.com^$third-party
+||chat.gosquared.com^$third-party
+||chat.octadesk.services/embed/static/media/$media
+||chat.octadesk.services^$third-party
+||chatango.com/pcache/sounds/
+||chatbase.co/embed.min.js
+||chatbot.com^$third-party
+||chatbot.pef.czu.cz^
+||chatbro.com^$third-party
+||chatdealer.jp^$third-party
+||chatplus.jp/app/s/sound/
+||chatway.app^$third-party
+||chatwoot.on-mail.ru^$third-party
+||checke.biz^$third-party
+||chemistwarehouse.com.au/edm_collector.html
+||cibbot.com^$third-party
+||civicscience.com/widget/jspoll/$third-party
+||cleverpush.com^$third-party
+||cleversite.ru/client/default/sound/
+||cliengo.com^$media
+||cliengo.com^$third-party
+||clientchatlive.com^$third-party
+||clients.streamwood.ru^$third-party
+||cloudfront.net/gosquared.js
+||cloudfront.net/prod/media/$domain=birdeye.com
+||cm.usatoday.com^
+||cnnindonesia.com/sw.js
+||collectcdn.com^$media
+||components.justanswer.com^$third-party
+||confirmit.com^$third-party
+||confirmsubscription.com^$third-party
+||conforama-push.com^$third-party
+||connect.ekomi.de^$third-party
+||connect.facebook.net^*/xfbml.customerchat.js
+||connect.nosto.com^$third-party
+||connect.ok.ru^$third-party
+||console.rul.ai^$third-party
+||contentexchange.me^$third-party
+||contentsitesrv.com/js/push/$third-party
+||contextly.com^$third-party
+||contivio.com/Chat2/
+||contivio.com/Chat2/audio/
+||conversationalsdevelopment.nl^$third-party
+||conversiobot.com^$third-party
+||convertflow.co^$third-party
+||convertsocial.com^$third-party
+||coordinator.cm.bloomberg.com^
+||copush.com^$third-party
+||copypoison.com^$third-party
+||copyrightcontent.org^$third-party
+||cpmlink.net/audio.mp3
+||cpmlink.net/go/assets/audio/audio.mp3
+||cracataum.com^$third-party
+||craft-talk.com^$third-party
+||crall.io^$third-party
+||cre.ma^$third-party
+||creativecommons.org^$image,third-party
+||crisp.chat/static/sounds/
+||crisp.chat^$~image,third-party
+||crowdynews.com^$third-party
+||css.xjsx.lol^$third-party
+||ctctcdn.com/js/signup-form-widget/$third-party
+||curator.io^$third-party
+||cursors-4u.net^$third-party
+||cxpublic.com^$third-party
+||czater.pl/assets/sounds/
+||d.provenexpert.net^$third-party
+||d15r06k2ko210l.cloudfront.net^
+||d2cmvbq7sxx33j.cloudfront.net/email/prod_amnews_iframe_section_braze.html
+||d2ip7iv1l4ergv.cloudfront.net^$domain=~zeddit.com
+||d2yyd1h5u9mauk.cloudfront.net^
+||d9etzk30b05yg.cloudfront.net^
+||dailymail.co.uk/api/web-push-notification/
+||dailymotion.com/badge/user/$third-party
+||dailypioneer.com/images/top.png
+||daktela.com^$third-party
+||danorenius.com^$third-party
+||data.reachplc.com^
+||dcnews.ro/sm-
+||default.salsalabs.org/api/widget/
+||designtaxi.com/css/remodal.css
+||desipearl.com^$third-party
+||dhpikd1t89arn.cloudfront.net^
+||digg.com^$script,subdocument,third-party
+||digipush.io^$third-party
+||digitalpush.org^$third-party
+||diigo.com/images/diigo-icon/$third-party
+||discordapp.com/api/servers/*/widget.json$third-party,xmlhttprequest
+||disqus.com/api/*/listRelated.json?
+||dotmailer-surveys.com^$third-party
+||download.skype.com/share/$third-party
+||downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js$script,third-party
+||dpns-notifications.com^$third-party
+||driftqa.com/conductor/assets/media/
+||driftt.com^$third-party
+||dw.com/webapi/iframes/widget/
+||easyfeeed.com^$third-party
+||echatsys.com/sounds/
+||echatsys.com^$third-party
+||edrone.me^$third-party
+||eff.org/bloggers/badges/$third-party
+||elpais.com.uy/utms.js
+||embed.simplifeye.co^$third-party
+||embed.typeform.com/next/embed.js$script,domain=vitbikes.de
+||embed.typeform.com^$domain=theregister.com
+||embeds.beehiiv.com^
+||emsecure.net^$subdocument,third-party
+||engage.im^$third-party
+||engage.newmode.net/embed/
+||engage.wixapps.net/chat-widget-server/
+||engagebay.com^$third-party
+||enquoted.com^$third-party
+||eventful.com^$third-party
+||evidence.io^$third-party
+||evolok.net^$third-party
+||ewnews.com/wp-content/themes/dw-focus/newsletter.png
+||exitintel.com^$third-party
+||external.airport.ai^$third-party
+||face-push.com^$third-party
+||facebook.com/plugins/activity.php?$third-party
+||facebook.com/plugins/facepile.php?$third-party
+||facebook.com/plugins/fan.php?$third-party
+||facebook.com/plugins/follow.php$third-party
+||facebook.com/plugins/like.php?$third-party
+||facebook.com/plugins/like_box.php$third-party
+||facebook.com/plugins/likebox/$third-party
+||facebook.com/plugins/page.php?$third-party
+||facebook.com/plugins/recommendations.php?$third-party
+||facebook.com/plugins/send.php?$third-party
+||facebook.com/plugins/share_button.php?$third-party
+||facebook.com/plugins/subscribe.php$third-party
+||facebook.com/widgets/activity.php?$third-party
+||facebook.com/widgets/fan.php?$third-party
+||facebook.com/widgets/like.php?$third-party
+||facebook.com/widgets/recommendations.php?$third-party
+||facebook.com^*/plugins/like.php?$third-party
+||facebook.com^*/plugins/page.php?$third-party
+||facebook.com^*/plugins/share_button.php?$third-party
+||factors.ai^$third-party
+||fark.com/js/$third-party
+||fark.com^$script,third-party
+||farteniuson.com^$third-party
+||fcc-online.pl/chat/
+||feed.mikle.com^$third-party
+||feedaty.com^$third-party
+||feedback.wwe.com/survey/
+||feedbackify.com/f.js$third-party
+||feedblitz.com^$third-party
+||feedburner.com^$image,third-party
+||feedgrabbr.com/widget/
+||feedify.net^$third-party
+||feedly.com/img/follows/$third-party
+||feraciumus.com^$third-party
+||fernomius.com^$third-party
+||figshare.com^$third-party
+||filamentapp-assets.s3.amazonaws.com^$third-party
+||filamentapp.s3.amazonaws.com^$third-party
+||filmaffinity.com/images/arrow-up2.png
+||firesticktricks.com/wp-content/plugins/popup-builder/
+||fireworkapi.com^$third-party
+||fireworkapi1.com^$third-party,domain=~matsukiyococokara-online.com
+||fireworktv.com^$third-party
+||fkondate.com^$third-party
+||flashgroup.com^$third-party
+||flashscore.fr^*/build/notifications.
+||flipboard.com/web/buttons/$third-party
+||fluidsurveys.com^$third-party
+||followistic.com^$third-party
+||folloyu.com^$third-party
+||form.flodesk.com^$domain=stacker.com
+||formilla.com/remoteAssets/media/
+||forms-content.sg-form.com^$domain=12tomatoes.com
+||forms.aweber.com^$domain=thetruthaboutguns.com
+||foursixty.com^$third-party
+||foxpush.com^$third-party
+||foxpush.net^$third-party
+||freedownloadmanager.org/ajax/on_exit_v2.php
+||freedownloadmanager.org/js/th_win_
+||freetellafriend.com^$third-party
+||freshchat.com^$third-party
+||friends2follow.com^$subdocument,third-party
+||frizbit.com^$third-party
+||futura-sciences.com/clientscript/push.js
+||fwcdn2.com^$third-party
+||fwcdn3.com^$third-party
+||fwix.com^$third-party
+||fxcity.pl/images/mp4/$media
+||gadgetsnow.com/sw.cms
+||gatherup.com^$third-party
+||georiot.com^$third-party
+||getback.ch^$third-party
+||getbeamer.com^$third-party
+||getbutton.io/widget-send-button/$third-party
+||getdrip.com^$third-party
+||getfivestars.com^$third-party
+||getglue.com^$third-party
+||getkudos.me^$third-party
+||getmailcounter.com^$third-party
+||getnotification.me^$third-party
+||getpush.net^$third-party
+||getpushmonkey.com^$third-party
+||getresponse.com^$third-party
+||getrisk.info^$third-party
+||getscoutapp.com^$third-party
+||getsocial.io/widget/$third-party
+||getsocial.io^*/gs_async.js$third-party
+||getwoohoo.com^$third-party
+||givealittle.co.nz/widget/$subdocument,third-party
+||gladly.com/chat-sdk/
+||gn-flagpoles.api.bbci.co.uk^
+||goemotify.com^$third-party
+||goftino.com/static/assets/$media
+||goftino.com^$third-party
+||goldendev.win/shopify/show-recent-orders/
+||goodreads.com/review/custom_widget/$third-party
+||goodreviews.io^$third-party
+||google.com/_/+1/$third-party
+||google.com/shopping/customerreviews/$subdocument,third-party
+||google.com/uds/?file=orkut&
+||google.com^*/fastbutton?$third-party
+||google.com^*/friendconnect.js
+||googleapis.com/ebbot-web/
+||gorgias.chat^$third-party
+||gotchosen.com^$third-party
+||gplusapi.appspot.com^$third-party
+||graph.facebook.com/fql?q=SELECT$third-party
+||gravitec.net^$third-party
+||gravityrd-services.com^$third-party
+||groupon.com^*/affiliate_widget/$third-party
+||gs-chat.com^$third-party
+||gso.amocrm.com^$third-party
+||gstatic.com/dialogflow-console/fast/messenger/
+||gstatic.com/firebasejs/$domain=joins.com
+||gubagoo.io/v4/media/
+||gubagoo.io^$third-party
+||handll.com^$third-party
+||happyfox.com^$third-party
+||hatena.ne.jp/entry/button/$third-party
+||healthgrades.com^$third-party
+||hellobar.com^$third-party
+||helpscout.net/static/ui-sounds/
+||helpscout.net^$third-party
+||heroesdom.com^$third-party
+||herokuapp.com/button.html?$third-party
+||herokuapp.com/email$domain=peopleofcolorintech.com
+||hindustantimes.com/messaging-sw.js
+||hindustantimes.com/sw.js
+||hindustantimes.com^*/ht-notification-
+||hn-button.herokuapp.com^$third-party
+||hnbutton.appspot.com^$third-party
+||hnlike.com^$third-party
+||honcode.ch^$third-party
+||hoodline.com^$third-party
+||horoscope.fr/notifications/
+||hsleadflows.net^$third-party
+||hubspot.com/livechat-public/
+||hulkprod.anm.co.uk/api/web-push-notification/
+||iadvize.com/iadvize.js
+||ibspot.com/klaviyo_form
+||iconosquare.com/widget.php$third-party
+||identi.ca/js/identica-badge.js$third-party
+||igetresponse.chat^$third-party
+||images.dmca.com/Badges/DMCABadgeHelper.min.js$third-party
+||img.fark.net/pub/$third-party
+||imyfone.com/*/notification/$script
+||increasingly.co^$third-party
+||indiatimes.com/pn/
+||indiatimes.com/subscriptionhomepage.cms
+||informvisitors.com^$third-party
+||insidesoci.al^$third-party
+||insidesources.com/wp-content/themes/insidesources/js/jquery.fancybox.js
+||instaemail.net^$third-party
+||instapaper.com/e2$third-party
+||instapaper.com/javascript/$third-party
+||insticator.com^$third-party
+||instiengage.com^$third-party
+||integrate.thrive.today^
+||inteliwise.com^$third-party
+||intelligems.io^$third-party
+||intelliticks.com/prod/common/$media
+||intelliticks.com^$third-party
+||intercomcdn.com^$third-party
+||intern.forskning.no^$third-party
+||internetdefenseleague.org^$third-party
+||invite.linescale.com^$third-party
+||iol.co.za/sw.js
+||ipaddress.com/shariff/
+||irishstar.com/newsletter-preference-centre
+||irpush.com^$third-party
+||jeeng.com^$third-party
+||jefftucker.org/travels/res/pagetop.svg
+||jisbar.com^$third-party
+||jit.su/frame$third-party
+||jivo.ru/sounds/
+||jivosite.com/sounds/
+||jivosite.com^$third-party
+||jobamatic.com^$third-party
+||jobs.mobilemarketingreads.com^
+||jobs.thejobnetwork.com^$third-party
+||jobvite.com/widget20.js$third-party
+||joinsubtext.com^$subdocument,third-party
+||js.brow.si^$third-party
+||js.dhresource.com/survey/$domain=dhgate.com
+||js.driftt.com/conductor/assets/media/
+||js.driftt.com/deploy/assets/static/audio/
+||js.intercomcdn.com/audio/
+||js.pelcro.com/ui/plugin/
+||js.zohocdn.com/ichat/$third-party,domain=~zoho.com|~zoho.eu|~zoho.in|~zohoshowtime.com
+||js.zohocdn.com/salesiq/js/floatbutton1_$third-party,domain=~zoho.com|~zoho.eu|~zoho.in|~zohoshowtime.com
+||jsdelivr.net/npm/devtools-detector
+||jsdelivr.net/npm/disable-devtool
+||jsoon.digitiminimi.com^$third-party
+||jubi.ai/buttonbot/$script,third-party
+||judge.me^$third-party
+||jugglu.com^$third-party
+||justone.ai/embed/csd.html$subdocument
+||kaango.com/feCustomWidgetDisplay/$third-party
+||karmacracy.com/widget$third-party
+||kastatic.org/images/donate/$domain=khanacademy.org
+||kattepush.com^$third-party
+||khanacademy.org/api/internal/graphql/getActiveDonationAsks
+||ko-fi.com/cdn/widget/$third-party
+||kogan.com/sw.js
+||kommunicate.io/kommunicate/$media
+||krakenoptimize.com^$third-party
+||ladesk.com/chat/$third-party
+||landbot.io^$third-party
+||latestdeals.co.uk/sw.js
+||lcmagentportal.appspot.com^$third-party
+||leadacity.net^$third-party
+||leadback.ru/sounds/$media
+||leadback.ru^$third-party
+||leadbooster-chat.pipedrive.com^$third-party
+||leadfamly.com^$third-party
+||leadgenic.ru/production/$media
+||leadgenic.ru^$third-party
+||leadpages.co^$third-party
+||lessbuttons.com^$third-party
+||letreach.com^$third-party
+||letsgetsocialnow.com^$third-party
+||licensebuttons.net^$image,third-party
+||ligatus.com^$third-party
+||lightboxcdn.com/vendor/$script,third-party
+||likebtn.com^$third-party
+||line-apps.com^*/thirdparty/$third-party
+||line.me/js/line-button.js?$third-party
+||linkedin.com/countserv/$third-party
+||linkedin.com/img/$third-party
+||linkedin.com/uas/js/userspace?$third-party
+||linksalpha.com^$third-party
+||linkwithin.com^$third-party
+||list-manage.com/subscribe/
+||list-manage1.com/subscriber-count?$third-party
+||listrakbi.com/scripts/$script,domain=ninjakitchen.com
+||listrakbi.com^$script,domain=ruralking.com
+||live2support.com/uploads/sound/
+||live2support.com^$third-party
+||live4sport.net^$third-party
+||livebeep.com/visitor/events/$media
+||livechatinc.com/widget/static/media/
+||livechatinc.com^$third-party
+||livehelpnow.net^$third-party
+||liveintent.com^$third-party
+||livetex.ru^$third-party,domain=~livetex.github.io
+||load.fomo.com^$third-party
+||loader.wisepops.com^$domain=grist.org
+||loveclaw.com^$third-party
+||lpages.co/serve-leadbox/$third-party
+||lpsnmedia.net/le_unified_window/$media
+||lptag-cdn.liveperson.net^
+||lptag.liveperson.net^
+||luravius.com^$third-party
+||magimg.com/random?$third-party
+||mail.bonnier-subscriptions.com^$subdocument
+||mailerlite.com/js/universal.js
+||mailjet.com/statics/js/widget.modal.js$third-party
+||mailjet.com/widget/$third-party
+||maillist-manage.com^$third-party
+||mailmojo.no/sdk.js
+||mailmunch.s3.amazonaws.com^
+||manychat.com^$third-party
+||markerly.com^$third-party
+||massrelevance.com^$third-party
+||master-push.com^$third-party
+||master-push.net^$third-party
+||maven.io^*/widget.js$third-party
+||me-talk.ru/support/sounds/
+||me-talk.ru^$third-party
+||medallia.com^*/onsite/embed.js
+||meebo.com^$third-party
+||meerkatapp.co/btn/$third-party
+||melibo.de^$third-party
+||messenger.customerly.io^$third-party
+||messengerpeople.com^$third-party
+||metrobilbao.eus/firebase-messaging-sw.js
+||mg2connext.com^$third-party
+||milotree.com^$third-party
+||misosoup.io^$third-party
+||misrepush.com^$third-party
+||mixi.media^$third-party
+||mobi24.net^$third-party
+||mobilemonkey.com^$third-party
+||mobj.space/js/appsdiscover/$third-party
+||moengage.com^$third-party
+||moreshare.com^$third-party
+||mozo.com.au/widgets/$third-party
+||mp3vizor.com^$third-party
+||msn.com/bundles/v1/homePage/latest/experiences_conditional-banner
+||my.leadpages.net^$third-party
+||my.salesforce.com/embeddedservice/
+||my.sendinblue.com/users/subscribe/$third-party
+||myeffecto.com^$third-party
+||myip.ms/css/red/images/nav_
+||mylivechat.com^$third-party
+||myvoicenation.com^$third-party
+||najva.com^$third-party
+||nativesubscribe.pro^$third-party
+||naturalnews.com/getviews2.
+||ndtv.com/js/breaking_pushalert_revised.js
+||ndtv.com/sw.js
+||neighbourly.co.nz/stuff/
+||neopush.io^$third-party
+||neurologic.com.br^$third-party
+||newegg.com/newegg/survey/
+||news.atptour.com/p/$subdocument
+||news.google.com/swg/_/api/v1/publication/
+||news2day.me^$third-party
+||newsgator.com^$third-party
+||newsharecounts.com^$third-party
+||newsletter.bdnews24.com^
+||newsletter2go.com^$third-party
+||newsukraine.rbc.ua/sworker.js
+||newswhip.com^$third-party
+||nice-incontact.com/inContact/ChatClient/$media
+||nice-incontact.com^$third-party
+||nonissue.com^$third-party
+||nookazon.com/firebase-messaging-sw.js
+||nordiskemedier.dk/remodal/
+||notifadz.com^$third-party
+||notification-time.com^$third-party
+||notification.tubecup.net^
+||notifications.ltd^$third-party
+||notifikuj.cz^$third-party
+||notifpush.com^$third-party
+||notifstation.com^$third-party
+||notify.hindustantimes.com^
+||notify.solutions^$third-party
+||notifyon.com^$third-party
+||notix.io^$third-party
+||nrcdn.com/custom-script/$third-party
+||nrelate.com^$third-party
+||nscreenmedia.com/wp-content/uploads/subscribe-nscreen-newsletter.jpg
+||ntvsw.com^$third-party
+||ocelotbot.com^$third-party
+||oct8ne.com^$third-party
+||octaneai.com^$third-party
+||olark.com^$third-party
+||olgtex.com^$third-party
+||ommi-prod-widget.web.app^$third-party
+||omnisnippet1.com^
+||on-push.com^$third-party
+||onepush.app^$third-party
+||onlim.com^$third-party
+||onwebchat.com^$third-party
+||opensharecount.com^$third-party
+||opiniac.com^$third-party
+||opinionbar.com^$third-party
+||opinionstage.com^$third-party
+||opmnstr.com^$third-party
+||optimonk.com^$third-party
+||optinly.net^$third-party
+||optinmonster.com^$third-party
+||optkit.com^$third-party
+||optmnstr.com^$third-party
+||optmstr.com^$third-party
+||optnmnstr.com^$third-party
+||optnmstr.com^$third-party
+||os.tc^$third-party
+||outbrain.com^$third-party
+||outpostpublishingcoop.com/assets/v2/js/outpost-pub.js
+||p.ynet.co.il^$subdocument
+||p2a.co/embed/widget/app/$domain=thefire.org
+||page2rss.com^$third-party
+||pageimprove.io^$third-party
+||pageview.activengage.com^
+||parse.ly^$third-party
+||partishion.com^$third-party
+||partner.dw.com^$third-party
+||pathlime.com^$third-party
+||patreon.com/becomePatronButton.bundle.js$third-party
+||pelcro.com^$third-party,domain=newsweek.com
+||people.com.cn/img/2020fenxiang/
+||pepper.com^$third-party
+||permalink-system.com^$third-party
+||personaclick.com^$third-party
+||phenompeople.com/txm-bot/prod/$media
+||phenompeople.com/txm-bot/prod/prod.js
+||phoenix-widget.com^$third-party
+||phplivesupport.com^$third-party
+||phys.org/push-sw.js
+||pico.tools/load/build.js
+||ping.contactpigeon.com^
+||pinterest.com/images/$third-party
+||pinterest.com/js/pinit_main.js$third-party
+||pinterest.com/v1/urls/count.json$third-party
+||pippity.com^$third-party
+||placehold.it^$third-party
+||placeholder.com^$third-party
+||planelogger.com/Content/Images/avitop6.gif
+||platform.foursquare.com^$third-party
+||platform.linkedin.com^$third-party
+||platform.loyaltylion.com^
+||platform.twitter.com/anywhere.js$third-party
+||platform.twitter.com/embed/$~stylesheet,~subdocument,third-party
+||platform.twitter.com/js/button.$third-party
+||plaxo.com^$third-party
+||player.anyclip.com^$script,third-party,domain=~click2houston.com|~clickondetroit.com|~clickorlando.com|~ksat.com|~news4jax.com|~wsls.com
+||player.gliacloud.com^$third-party
+||plista.com^$third-party
+||plugin.me2day.net^$third-party
+||po.st/share/$script
+||po.st/static/$third-party
+||podium.com^$third-party
+||popmechanic.ru^$third-party
+||popupsmart.com^$third-party
+||pornve.com/img/300x250f.gif
+||postquare.com^$third-party
+||powerjobs.com^$third-party
+||poxo.com^$third-party,domain=~colorscale.shop|~wmaniac.com
+||predu.sk/chat/chat.js
+||pressly.com^$third-party
+||primetag.net^$third-party
+||printfriendly.com^$~subdocument,third-party
+||privy.com^$third-party
+||production.raptive.ai^$third-party
+||promio-connect.com/register/
+||promoshq.wildfireapp.com^$third-party
+||promotion.monster.com^$third-party
+||promotions.newegg.com^$third-party
+||prooffactor.com^$third-party
+||propush.net^$third-party
+||provesrc.com^$third-party
+||psh.one^$third-party
+||psyche.co/_next/static/chunks/PopupManager.
+||psyche.co/_next/static/chunks/SupportBannerHeader.
+||pt.appirits.com^$third-party
+||publisher.monster.com^$third-party
+||purch.com^$script,third-party
+||purechat.com^$third-party
+||purechatcdn.com/Content/Audio/
+||puscomosca.com^$third-party
+||push-ad.com^$third-party
+||push-centr.com^$third-party
+||push-centr.net^$third-party
+||push-engage.com^$third-party
+||push-free.com^$third-party
+||push-house.net^$third-party
+||push-notifications.top^$third-party
+||push-pro.net^$third-party
+||push.asahiinteractive.com^
+||push.bytesignal.com^
+||push.cnnindonesia.com^
+||push.daksham.in^$third-party
+||push.delivery.ethinking.de^
+||push.delivery^$third-party
+||push.esputnik.com^
+||push.getbeamer.com^
+||push.ictsd.org^
+||push.idowa.de^
+||push.knd.ro^
+||push.neko-san.fr^
+||push.newscraft.io^
+||push.reamaze.com^
+||push.rollout.io^$third-party
+||push.world^$third-party
+||pushaddict.com^$third-party
+||pushalert.co^$third-party
+||pushango.com^$third-party
+||pushassist.com^$third-party
+||pushaya.com^$third-party
+||pushbaza.com^$third-party
+||pushbird.com^$third-party
+||pushbots.com^$third-party
+||pushbox.info^$third-party
+||pushbullet.com^$third-party
+||pushcentr.com^$third-party
+||pushchev.info^$third-party
+||pushcrew.com^$third-party
+||pushdealer.com^$third-party
+||pushe.co^$third-party
+||pushengage.com^$third-party
+||pusherapp.com^$third-party
+||pushex.io^$third-party
+||pushible.com^$third-party
+||pushify.com^$third-party
+||pushinpage.com^$third-party
+||pushinstruments.com^$third-party
+||pushio.com^$third-party
+||pushjunky.com^$third-party
+||pushkahouse.com^$third-party
+||pushkaplus.com^$third-party
+||pushly.com^$third-party
+||pushmaster-cdn.xyz^$third-party
+||pushme.magellanotech.it^
+||pushmejs.com^$third-party
+||pushnews.eu^$third-party
+||pushnotifications.click^$third-party
+||pushouse.com^$third-party
+||pushowl.com^$third-party
+||pushpad.xyz^$third-party
+||pushpanda.io^$third-party
+||pushpro.io^$third-party
+||pushprofit.ru^$third-party
+||pushprospush.com^$third-party
+||pushpushgo.com^$third-party
+||pushstack.it^$third-party
+||pushtide.com^$third-party
+||pushvip.ru^$third-party
+||pushwhy.com^$third-party
+||pushwoosh.com^$third-party
+||pushy.ai^$third-party
+||qeryz.com^$third-party
+||qrius.me^$third-party
+||qualified.com/packs/$media
+||qualified.com^$third-party
+||quarepush.com^$third-party
+||quaruzon.com^$third-party
+||quicktext.im/assets/audio/
+||quicktext.im^$third-party
+||quote.fm/services/button/$third-party
+||r42tag.com^$third-party
+||radioonlinehd.net/ads/
+||raidrush.net/ticker/$third-party
+||rankdirectory.org^$third-party
+||rating-widget.com^$third-party
+||raychat.io/assets/widget/audio/
+||raychat.io^$third-party
+||rdstation.com.br^$third-party
+||reactandshare.com^$third-party
+||readyplanet.com^$third-party
+||realclearpolitics.com^*/widget_wrapper_$third-party
+||realpush.media^$third-party
+||realpush.network^$third-party
+||reamaze.com/audio/
+||reamaze.com^$third-party
+||recommendedbookies.co.uk^$third-party
+||reddit.com/api/info.json?$third-party
+||reddit.com/button.js?$third-party
+||reddit.com/static/$third-party
+||reevoo.com^$third-party
+||reftagger.com^$third-party
+||renaultsport.com/spip.php?page=sw.js
+||repost.us^$third-party
+||reprocautious.com^$third-party
+||research.net^$third-party
+||researchnews.cc/subscribe.html
+||revechat.com/client/sound/
+||reviewability.com^$third-party
+||revinate.com^$third-party
+||revpusher.com^$third-party
+||richpanel.com/audio/
+||richpanel.com^$third-party
+||rightmessage.com^$third-party
+||rokt.com^$third-party
+||rottentomatoes.com/service-worker/sw.js
+||royapp.com^$third-party
+||rsspump.com^$third-party
+||rt.com/homescreen-sw.js
+||rule34.xxx/images/rule34_merch.jpg
+||rule34.xxx/images/shirt2.jpg
+||s3.amazonaws.com/scripts.hellobar.com/$third-party
+||sabcnews.com^*-iabsa-
+||sail-horizon.com/scout/$third-party
+||sail-horizon.com^$third-party
+||sail-personalize.com^$third-party
+||sales-pop-dot-autoketing-production-sdk.appspot.com^$third-party
+||salesforceliveagent.com^$third-party
+||salesiq.zoho.com^$third-party
+||salesmartly.com/sounds/
+||sammobile.com/wp-content/plugins/sam-push-notifications/
+||sample.dragonforms.com^$subdocument,third-party
+||savvysource.com^$third-party
+||sckxppzdm.com^$third-party
+||scmp.com/misc/inkstone_sub_widget/
+||scmp.com/sw.js
+||scoop.it^$third-party
+||scorespro.com^$third-party
+||scoutle.com^$third-party
+||screenpopper.com^$third-party
+||scribol.com^$third-party
+||scrolltotop.com^$third-party
+||seattletimes.com/wp-content/plugins/st-user-messaging/$script
+||secondstreetapp.com/audience_signup_widgets/
+||secondstreetapp.com/embed/$subdocument,third-party
+||sendinblue.com^$third-party
+||sendlane.com^$third-party
+||sendpulse.com^$third-party
+||sendsay.ru^$third-party
+||sendtonews.com/player/sidebar.php?$third-party
+||senzari.com^$third-party
+||service.force.com^$third-party
+||serviceform.com^$third-party
+||setrowid.com^$third-party
+||sg-autorepondeur.com^$third-party
+||share.itraffic.su^$third-party
+||share.static.skyrock.net^$third-party
+||shareaholic.com^$third-party
+||sharedcount.com^$third-party
+||sharenice.org^$third-party
+||sharethis.com^$third-party
+||sharexy.com^$third-party
+||sharpay.io^$third-party
+||shopify.com^*/shopifyChatV1.js
+||shpg.org^$third-party
+||shroughtened.com^$third-party
+||sibforms.com/serve/$domain=maidenhead-advertiser.co.uk|sloughexpress.co.uk
+||sidelinesapp.com^$third-party
+||signaly.co^$third-party
+||simplesharebuttons.com^$third-party
+||siteswithcontent.com^$third-party
+||sixriversmedia.com/gfembed/$subdocument
+||skysa.com^$third-party
+||slashdot.org^$third-party
+||sleeknote.com^$third-party
+||sleeknoteboxcontent.sleeknote.com^$third-party
+||sm-epsilon.com^$third-party
+||smart.generaxion.fi^$third-party
+||smartarget.online^$third-party
+||smartnewsquiz.com^$third-party
+||smartsuppcdn.com/assets/sounds/
+||smartsuppcdn.com^$third-party
+||smartsuppchat.com^$third-party
+||smi.pp.ua^$third-party
+||smi.today^$third-party
+||smi2.ru^$third-party
+||smiinformeri.online^$third-party
+||smith.ai^$third-party
+||smooch.io^$third-party
+||snapengage.com/sounds/
+||snapengage.com^$third-party
+||snapsmedia.io^$third-party
+||snapwidget.com^$third-party
+||snd.tc^$third-party
+||snrcdn.net^$third-party
+||sociallist.org^$third-party
+||socialoomph.com^$third-party
+||socialsnowball.io^$third-party
+||socialtwist.com^$third-party
+||socialvibe.com^$third-party
+||sodahead.com^$third-party
+||softwebzone.com^$third-party
+||sp-marketing-assets.s3.us-west-2.amazonaws.com^$domain=heraldnet.com
+||spacepush.ru^$third-party
+||sparkloop.app^$script,third-party
+||spinasale.com^$third-party
+||sportskeeda.com/js/production/web-notifications/
+||spotify.com/follow/$third-party
+||sprinklr.com/api/livechat/$third-party
+||squarelovin.com^$third-party
+||st.chatango.com^$third-party
+||stadtwerk.bot^$third-party
+||static.chrono24.com/lib/generated/js/app-hint-layer.
+||static.olark.com/jsclient/sounds/
+||static.widget.trengo.eu/assets/$media
+||statictapcdn-a.akamaihd.net^$third-party
+||statigr.am^$third-party
+||storage.googleapis.com/code.snapengage.com/
+||storeya.com/externalscript/$third-party
+||storystack.com^$third-party
+||streamspread.com^$third-party
+||streamwood.ru/img/$media
+||styld-by.com^$third-party
+||subscribers.com^$third-party
+||subscription-forms.smsbump.com^
+||subscriptions.cbc.ca^$xmlhttprequest
+||substack.com/embed$third-party
+||superwidget-assets.gowatchit.com^$third-party
+||supportai.yandex/widget/$third-party
+||surfingbird.ru^$third-party
+||survey.constantcontact.com^$third-party
+||survey.io^$third-party
+||swiftypecdn.com^$third-party,domain=~swiftype.com
+||swishu.com^$third-party
+||synapsys.us^$third-party
+||system-notify.app^$third-party
+||systeme.io^$third-party
+||t.ly/js/sweetalert.min.js
+||t.pridat.eu^$third-party
+||taboola.com^$third-party
+||taboolasyndication.com^$third-party
+||talkative-cdn.com^$third-party
+||tapcart.com/mobile-download-banner/banner-min.js
+||tapcdn.com/mosaic/tap_button.js
+||targetbay.com^$third-party
+||tars-file-upload.s3.amazonaws.com^$media
+||tawk.to/*/audio/
+||tawk.to^$third-party
+||teamautofollow.com/modules/mod_jtwitter/
+||techbeat.com/wp-content/custom-php/$third-party
+||techwalla.com/push-service-worker.js
+||telegraphindia.com/akam-sw.js
+||ternairsoftware.com/publicwebpush/
+||thankful.ai^$third-party
+||theechosystem.com^$third-party
+||theintercept.com/xbuilder/$script
+||thejewishstar.com/images/enews-ad.png
+||thelivechatsoftware.com^$third-party
+||thelovebucks.com^$third-party
+||theoutplay.com^$third-party
+||tidio.co^$third-party
+||tidiochat.com^$media
+||tidiochat.com^$third-party
+||timesnownews.com/sw.js
+||tinker.com^$third-party
+||tinypass.com/api/tinypass.min.js$script,domain=bbcgoodfood.com|billboard.com|rawstory.com|rollingstone.com|thedailybeast.com|theintercept.com|thenation.com|wwd.com
+||tio.ch/js/api.push.js
+||tippola.com^$third-party
+||toastibar-cdn.makeprosimp.com^$third-party
+||toolbar.avg.com^$third-party
+||top100-images.rambler.ru^$third-party
+||top100.ru^$third-party
+||topswp.com^$third-party
+||topsy.com^$third-party
+||tosshub.com/sites/player/media/sana-widget/sana-min.js
+||trendemon.com^$third-party
+||truenat.bid^$third-party
+||truepush.com^$third-party
+||tstatic.net/js/copy.js
+||tuenti.com^$third-party
+||turnsocial.com^$third-party
+||tutto.tv/wp-content/plugins/plugin-notifiche-
+||tweetup.com^$third-party
+||twilio.com^$third-party
+||twinesocial.com^$third-party
+||twitter.com/account/$third-party
+||twitter.com/i/jot
+||twitter.com/js/timeline.$script,third-party
+||uatu.newsquestdigital.co.uk^$third-party
+||uchubiz.com/wp-content/themes/uchubiz/assets/js/push.js
+||ui-widgets.preezie.io/apps/widget/preezie-cta.esm.js
+||ultimedia.com/js/common/notification.js
+||unative.com^$third-party
+||unibuddy.co^$third-party
+||upscri.be^$third-party
+||urbanairship.com^$third-party
+||usablenet.com^$third-party
+||usefomo.com^$third-party
+||usemessages.com/conversations-embed.js
+||userback.io/widget/
+||userbot.ai/widget-chat/dist/audio/
+||userbot.ai^$third-party
+||userdatatrust.com^$third-party
+||userlike-cdn-widgets.*.amazonaws.com^
+||userway.org/widgetapp/sounds/
+||userway.org^$third-party
+||usocial.pro^$third-party
+||vergic.com^$third-party
+||vhmengine.com^$third-party
+||viafoura.net/push_handlers.js
+||viapush.com^$third-party
+||vicomi.com^$third-party
+||virtualpushplatform.com^$third-party
+||visitor.chat^$third-party
+||vk.com/images/$third-party
+||vk.com/share.php?$third-party
+||vk.com/widget_community.php$third-party
+||vk.com/widget_community_messages.php?$third-party
+||vk.com/widget_like.php$third-party
+||vkontakte.ru/js/api/$third-party,domain=~arudex.com|~tapclap.com|~ugo.ru|~vk.com
+||vkontakte.ru/share.php?$third-party
+||vkontakte.ru/widget_community.php$third-party
+||vkontakte.ru/widget_like.php$third-party
+||volomedia.com^$third-party
+||vuukle.com/widgets/quiz.html$third-party
+||w.uptolike.com^$third-party
+||wahwahnetworks.com^$third-party
+||waterfordwhispersnews.com/wp-content/themes/therex-child/js/_newsletter-article-signup.js
+||weather.com/*.MedalliaSurvey.
+||web-chat.global.assistant.watson.appdomain.cloud^$third-party
+||web.delighted.com^$third-party
+||web.kodabots.com^$third-party
+||web.pypestream.com/launcher.js
+||webchat.omni.cafe^
+||webim.ru^$third-party
+||webme.com/designs/globals/snow2.js
+||webpu.sh^$third-party
+||webpush.jp^$third-party
+||webpushr.com^$third-party
+||webpushs.com^$third-party
+||webseed.com/javascripts/messagebar.js
+||weibo.com/staticjs/weiboshare.html$third-party
+||weworkremotely.com^$third-party
+||wheelioapp.azureedge.net^
+||wheelysales.com^$third-party
+||whiteclick.biz^$third-party
+||whitepush.biz^$third-party
+||widget-social-proof-api.one.store^
+||widget.adviceiq.com^$third-party
+||widget.awhy.it/chat/img/$media
+||widget.beop.io^
+||widget.breakingburner.com^$third-party
+||widget.chatbot.laiye.com^
+||widget.clipix.com^$third-party
+||widget.clutch.co^$third-party
+||widget.gleamjs.io^$script,third-party,domain=~gleam.io
+||widget.gyde.one^$third-party
+||widget.helpcrunch.com^
+||widget.insent.ai/static/media/
+||widget.insent.ai^$third-party
+||widget.intercom.io^
+||widget.justwatch.com^
+||widget.kommunicate.io^
+||widget.moin.ai^$third-party
+||widget.pico.tools^$third-party
+||widget.screets.io^$third-party
+||widget.smsinfo.io^
+||widget.superchat.de^$third-party
+||widget.trengo.eu^
+||widget.trustpilot.com^$third-party
+||widget.weibo.com^$third-party
+||widget.whatshelp.io^$third-party
+||widget.writesonic.com^$third-party
+||widget.zoorate.com^$third-party
+||widgetinstall.com/plugin/chat.js
+||widgets.binotel.com/chat/
+||widgets.binotel.com/getcall/
+||widgets.binotel.com/w/chat/$media
+||widgets.dzone.com^$third-party
+||widgets.getpocket.com^$third-party
+||widgets.itunes.apple.com^$third-party
+||widgets.leadconnectorhq.com^
+||widgets.recruitology.com^
+||widgets.sprinkletxt.com^
+||widgets.tapcdn.com^$third-party
+||widgets.wp.com/likes/$third-party
+||widgetsplus.com^$third-party
+||wikimedia.org/w/index.php?title=Special:BannerLoader
+||winnipegfreepress.com/firebase-messaging-sw.js
+||wisepops.com^$third-party
+||wishpond.com^$third-party,domain=~markanthonywineandspirits.ca
+||wnpbdan.bid^$third-party
+||wonderpush.com^$third-party
+||worldchatbox.worldfone.vn^$third-party
+||worldgravity.com^$third-party
+||worldpush.co^$third-party
+||wp.com/www.feedburner.com/fb/$image
+||wpengine.com/wp-content/mu-plugins/wpengine-dotcom/audio/
+||wps.relateddigital.com^$third-party
+||wpush.biz^$third-party
+||wpushsdk.com^$third-party
+||ws.audioscrobbler.com^$third-party,domain=~play.google.com|~spotify.com
+||wwclicknews.club^$third-party
+||wwclicktm.club^$third-party
+||wykop.pl/dataprovider/diggerwidget/$third-party
+||xedo.me^$third-party
+||xhamsterlive.com/api/external/$third-party
+||xing-share.com^$third-party
+||xing.com/img/buttons/$third-party
+||xtremepush.com^$third-party
+||yandex.st/share/
+||yimg.com/uq/syndication/
+||yimg.com^*/GoldenGate.
+||yottos.com^$third-party
+||youappi.com/widget/$third-party
+||youlead.pl/webpushprompt.js
+||yourmarketingemail.com^$third-party
+||youspacko.com/com/$third-party
+||youtube.com/subscribe_embed?$third-party
+||youtube.com/subscribe_widget$third-party
+||youtube.com/v/*autoplay$third-party,domain=7chan.org|boards.4chan.org
+||ytimg.com^*/www-subscribe-widget-$script
+||zammo.ai^$third-party
+||zaparena.com^$third-party
+||zdassets.com/ekr/snippet.js
+||zdassets.com/web_widget/
+||zdassets.com/web_widget/$media
+||zeddit.com^$third-party
+||zergnet.com^$third-party
+||zextit.com/partners/$third-party
+||zfacts.com^$third-party
+||ziprecruiter.com/jobs-widget/$third-party
+||zohocdn.com/salesiq/*/sound/
+||zohopublic.com/watchws?$third-party
+||zoomanalytics.co^$third-party
+||zopim.com/widget/sounds/
+||zopim.com^$third-party
+||zotabox.com^*/widgets.js$third-party
+||zyratalk.com/contractorschatbot/$media
+||zyratalk.com^$third-party
