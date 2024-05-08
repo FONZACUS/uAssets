@@ -1,0 +1,57 @@
+!FB=fanboy EC=easylist_cookie GE=general SP=specific 3P=thirdparty
+!AL=allowlists BL=block HI=hide IN=international
+!AN=annoyance NE=newsletter NO=notifications SO=social
+!-General Blocking rules-!
+FB_AN_GE_BL
+FB_NO_GE_BL
+FB_NE_GE_BL
+FB_SO_GE_BL
+EC_GE_BL
+!-General element hiding rules-!
+FB_AN_GE_HI
+FB_NO_GE_HI
+FB_NE_GE_HI
+FB_SO_GE_HI
+EC_GE_HI
+!-Third-party blocking rules-!
+FB_AN_3P
+FB_NO_3P
+FB_NE_3P
+FB_SO_3P
+FB_sounds_3P
+EC_3P
+!-Specific blocking filters-!
+FB_AN_SP_BL
+FB_NO_SP_BL
+FB_NE_SP_BL
+FB_SO_SP_BL
+EC_SP_BL
+!-Specific element hiding rules-!
+FB_AN_SP_HI
+FB_AN_SP_uBO
+FB_NO_SP_HI
+FB_NO_SP_uBO
+FB_NE_SP_HI
+FB_NE_SP_uBO
+FB_SO_SP_HI
+FB_SO_SP_uBO
+EC_SP_HI
+EC_SP_uBO
+!-Rules for international sites-!
+FB_AN_IN
+FB_SO_IN
+FB_NE_IN_BL
+FB_NE_IN_HI
+EC_IN_SP_HI
+EC_IN_SP_BL
+!-Allowlists-!
+FB_AN_AL_GE_HI
+FB_NO_AL_GE_HI
+FB_SO_AL_GE_HI
+FB_NE_AL
+FB_NE_AL_GE_HI
+EC_AL_GE_HI
+FB_AN_AL
+FB_NO_AL
+EC_AL
+FB_SO_AL

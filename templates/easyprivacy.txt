@@ -1,0 +1,51 @@
+!EP=easyprivacy GE=general SP=specific 3P=thirdparty
+!TS=trackingservers IN=international CN=cname AL=allowlist
+!-General tracking systems
+EP_GE
+EP_GE_emailtrackers
+!-Third-party tracking domains
+EP_TS_GE
+EP_TS_3P
+EP_TS_mining
+EP_TS_admiral
+EP_TS_notifications
+EP_TS
+!-International third-party tracking domains
+EP_TS_IN
+!-Third-party tracking services
+EP_3P
+!-International third-party tracking services
+EP_3P_IN
+!-Individual tracking systems
+EP_SP
+EP_SP_perimeterx
+!-Extension specific systems
+EP_SP_abp
+EP_SP_uBO
+!-Individual cname tracking systems
+EP_SP_CN_dataunlocker
+EP_SP_CN_a8net
+EP_SP_CN_plausible
+EP_SP_CN_tracedock
+EP_SP_CN_at-internet
+EP_SP_CN_adobe
+EP_SP_CN_acton
+EP_SP_CN_otto
+EP_SP_CN_commanders-act
+EP_SP_CN_ingenious-technologies
+EP_SP_CN_np6
+EP_SP_CN_criteo
+EP_SP_CN_oracle
+EP_SP_CN_ad-ebis
+EP_SP_CN_eulerian
+EP_SP_CN_keyade
+EP_SP_CN_lead-forensics
+EP_SP_CN_webtrekk
+EP_SP_CN_wizaly
+EP_SP_CN_branch
+!-International individual tracking systems
+EP_SP_IN
+!-Allowlists to fix broken sites
+EP_AL
+!-Allowlists to fix broken international sites
+EP_AL_IN
